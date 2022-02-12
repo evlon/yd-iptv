@@ -1,0 +1,11 @@
+#EXTM3U
+#PLAYLIST:老牛之家
+#EXTINF:-1 tvg-id="0" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1
+#EXTGRP:cctv
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900256.m3u8
+#EXTINF:-1 tvg-id="0" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1
+#EXTGRP:cctv
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-id="0" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1
+#EXTGRP:cctv
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225573/index.m3u8?fmt=ts2hls
