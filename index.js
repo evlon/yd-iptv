@@ -49,7 +49,7 @@ async function checkChannel(csvLine, num) {
                     flagVideo = 1
                     if ('color_space' in v) {
                         //https://www.reddit.com/r/ffmpeg/comments/kjwxm9/how_to_detect_if_video_is_hdr_or_sdr_batch_script/
-                        if ('bt2020' in v.color_space) {
+                        if (/bt2020/i.test(v.color_space)) {
                             flagHDR = 1
                         }
                     }
