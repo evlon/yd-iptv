@@ -17,7 +17,8 @@ async function mock_checkChannel(csvLine, num){
 async function checkChannel(csvLine, num) {
     const checkerConfig = {
         userAgent: null,
-        timeout: config.timeout_ffprobe
+        timeout: config.timeout_ffprobe,
+        debug:true
     }
 
     let channel = csvLine.Channel;
@@ -149,13 +150,18 @@ async function main() {
                 // http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226432/1.m3u8
                 channelInfo.logo = getLogo(channelInfo.channel);
                 channelInfo.groupTitle = '央视';
+
+                
+                console.log('ok', channelInfo.channel, channelInfo.link);
+                channels.push(channelInfo);
+            }
+            else{
+                console.warn('skip ', data);
             }
 
-            // console.log(channelInfo);
-            channels.push(channelInfo);
 
         } catch (e) {
-            console.error('skip ', data, e);
+            console.error('skip ', data, e.message);
         }
     }
 
