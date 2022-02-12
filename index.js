@@ -17,7 +17,7 @@ async function mock_checkChannel(csvLine, num){
 async function checkChannel(csvLine, num) {
     const checkerConfig = {
         userAgent: null,
-        timeout: 20000
+        timeout: config.timeout_ffprobe
     }
 
     let channel = csvLine.Channel;
@@ -26,7 +26,7 @@ async function checkChannel(csvLine, num) {
     let link = csvLine.Link;
 
 
-    let getTest = await axios.get(link, { timeout: 1500 });
+    let getTest = await axios.get(link, { timeout: config.timeout_get_m3u8 });
     if (getTest.status == 200) {
         let item = { url: link, http: {} };
         let timeBegin = new Date();
@@ -135,8 +135,8 @@ async function main() {
     let datas = csvDatas.filter(filterChannel);
 
     let channels = [];
-    // for (let i = 0; i < datas.length; ++i) {
-    for (let i = 0; i < 10; ++i) {
+    for (let i = 0; i < datas.length; ++i) {
+    //for (let i = 0; i < 10; ++i) {
         let data = datas[i];
 
         try {

@@ -7,7 +7,9 @@ module.exports = {
         group:[
             /difang/i
         ]
-    }
+    },
+    timeout_get_m3u8:2500,
+    timeout_ffprobe:20000
         
     
 }
