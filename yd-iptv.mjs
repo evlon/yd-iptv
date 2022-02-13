@@ -4,7 +4,11 @@ import { gitPushToServer } from './git-push-to-server.mjs'
 import { genChannelJson } from './channel-json.mjs';
 import * as fs from 'fs';
 import { execSync } from 'child_process';
-// Run the pipeline
+import * as dotenv from 'dotenv'
+
+// load env from .env file
+
+dotenv.config();
 
 import { program } from "commander";
 
