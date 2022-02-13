@@ -4,25 +4,36 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "name": "Launch test",
-            "program": "${workspaceFolder}/test.js",
-            "args": ["-p"],
-            "request": "launch",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "type": "pwa-node"
-        },
+
         {
             "type": "pwa-node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "Launch genm3u",
             "skipFiles": [
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/yd-iptv.mjs",
             "args": ["genm3u"]
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Launch gitpush",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/yd-iptv.mjs",
+            "args": ["gitpush"]
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Launch publish",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/yd-iptv.mjs",
+            "args": ["publish"]
         }
     ]
 }

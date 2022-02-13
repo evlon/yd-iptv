@@ -68,9 +68,9 @@ program.command("gitpush")
     });
 program.command("publish")
     .description("publish web page [dist]")
-    .action(async (path) => {
+    .action(async () => {
         //publish web page 
-        process.env.GITEE_DIRECTORY = path;
+        //process.env.GITEE_DIRECTORY = path;
         await gitPushToServer();
     });
 
