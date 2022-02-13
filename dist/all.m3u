@@ -1,11 +1,947 @@
 #EXTM3U
 #PLAYLIST:老牛之家
-#EXTINF:-1 tvg-id="0" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1
+#EXTINF:-1 tvg-id="1" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1
 #EXTGRP:cctv
-http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900256.m3u8
-#EXTINF:-1 tvg-id="0" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228146/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1
 #EXTGRP:cctv
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8
-#EXTINF:-1 tvg-id="0" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1
+http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1
 #EXTGRP:cctv
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225573/index.m3u8?fmt=ts2hls
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1HD
+#EXTGRP:cctv
+http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1HD
+#EXTGRP:cctv
+http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-language="CN" tvg-logo="[object Promise]",CCTV-1HD
+#EXTGRP:cctv
+http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-language="CN" tvg-logo="[object Promise]",CCTV-2
+#EXTGRP:cctv
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-language="CN" tvg-logo="[object Promise]",CCTV-2
+#EXTGRP:cctv
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221228118/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-language="CN" tvg-logo="[object Promise]",CCTV-2
+#EXTGRP:cctv
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-language="CN" tvg-logo="[object Promise]",CCTV-2HD
+#EXTGRP:cctv
+http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-language="CN" tvg-logo="[object Promise]",CCTV-2HD
+#EXTGRP:cctv
+http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-language="CN" tvg-logo="[object Promise]",CCTV-3
+#EXTGRP:cctv
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227623/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-language="CN" tvg-logo="[object Promise]",CCTV-3
+#EXTGRP:cctv
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-language="CN" tvg-logo="[object Promise]",CCTV-3
+#EXTGRP:cctv
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-language="CN" tvg-logo="[object Promise]",CCTV-3HD
+#EXTGRP:cctv
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-language="CN" tvg-logo="[object Promise]",CCTV-3HD
+#EXTGRP:cctv
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-language="CN" tvg-logo="[object Promise]",CCTV-3HD
+#EXTGRP:cctv
+http://117.169.120.140:8080/live/cctv-3/.m3u8
+#EXTINF:-1 tvg-id="7" tvg-language="CN" tvg-logo="[object Promise]",CCTV-4
+#EXTGRP:cctv
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-language="CN" tvg-logo="[object Promise]",CCTV-4
+#EXTGRP:cctv
+http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-language="CN" tvg-logo="[object Promise]",CCTV-4
+#EXTGRP:cctv
+http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221228156/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-language="CN" tvg-logo="[object Promise]",CCTV-4K
+#EXTGRP:cctv
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5
+#EXTGRP:cctv
+http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221227452/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5
+#EXTGRP:cctv
+http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227478/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5
+#EXTGRP:cctv
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5+
+#EXTGRP:cctv
+http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5+
+#EXTGRP:cctv
+http://223.110.236.53/ott.js.chinamobile.com/PLTV/3/224/3221228114/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5+
+#EXTGRP:cctv
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228076/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5+HD
+#EXTGRP:cctv
+http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227685/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5+HD
+#EXTGRP:cctv
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5+HD
+#EXTGRP:cctv
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5HD
+#EXTGRP:cctv
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5HD
+#EXTGRP:cctv
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+#EXTINF:-1 tvg-id="12" tvg-language="CN" tvg-logo="[object Promise]",CCTV-5HD
+#EXTGRP:cctv
+http://223.110.245.170/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-language="CN" tvg-logo="[object Promise]",CCTV-6
+#EXTGRP:cctv
+http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-language="CN" tvg-logo="[object Promise]",CCTV-6
+#EXTGRP:cctv
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-language="CN" tvg-logo="[object Promise]",CCTV-6
+#EXTGRP:cctv
+http://183.207.249.9/PLTV/3/224/3221225548/1.m3u8
+#EXTINF:-1 tvg-id="14" tvg-language="CN" tvg-logo="[object Promise]",CCTV-6HD
+#EXTGRP:cctv
+http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-language="CN" tvg-logo="[object Promise]",CCTV-6HD
+#EXTGRP:cctv
+http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-language="CN" tvg-logo="[object Promise]",CCTV-6HD
+#EXTGRP:cctv
+http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-language="CN" tvg-logo="[object Promise]",CCTV-7
+#EXTGRP:cctv
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-language="CN" tvg-logo="[object Promise]",CCTV-7
+#EXTGRP:cctv
+http://223.110.236.22/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-language="CN" tvg-logo="[object Promise]",CCTV-7
+#EXTGRP:cctv
+http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-language="CN" tvg-logo="[object Promise]",CCTV-7HD
+#EXTGRP:cctv
+http://183.207.249.71/PLTV/3/224/3221225546/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-language="CN" tvg-logo="[object Promise]",CCTV-7HD
+#EXTGRP:cctv
+http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-language="CN" tvg-logo="[object Promise]",CCTV-8
+#EXTGRP:cctv
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-language="CN" tvg-logo="[object Promise]",CCTV-8
+#EXTGRP:cctv
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-language="CN" tvg-logo="[object Promise]",CCTV-8
+#EXTGRP:cctv
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-language="CN" tvg-logo="[object Promise]",CCTV-8HD
+#EXTGRP:cctv
+http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-language="CN" tvg-logo="[object Promise]",CCTV-8HD
+#EXTGRP:cctv
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-language="CN" tvg-logo="[object Promise]",CCTV-8HD
+#EXTGRP:cctv
+http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-language="CN" tvg-logo="[object Promise]",CCTV-9
+#EXTGRP:cctv
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-language="CN" tvg-logo="[object Promise]",CCTV-9
+#EXTGRP:cctv
+http://183.207.248.11/PLTV/4/224/3221225868/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-language="CN" tvg-logo="[object Promise]",CCTV-9
+#EXTGRP:cctv
+http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-language="CN" tvg-logo="[object Promise]",CCTV-9HD
+#EXTGRP:cctv
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225868/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-language="CN" tvg-logo="[object Promise]",CCTV-9HD
+#EXTGRP:cctv
+http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-language="CN" tvg-logo="[object Promise]",CCTV-10
+#EXTGRP:cctv
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-language="CN" tvg-logo="[object Promise]",CCTV-10
+#EXTGRP:cctv
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-language="CN" tvg-logo="[object Promise]",CCTV-10
+#EXTGRP:cctv
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228078/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-language="CN" tvg-logo="[object Promise]",CCTV-10HD
+#EXTGRP:cctv
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-language="CN" tvg-logo="[object Promise]",CCTV-10HD
+#EXTGRP:cctv
+http://183.207.249.71/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-language="CN" tvg-logo="[object Promise]",CCTV-10HD
+#EXTGRP:cctv
+http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i
+#EXTINF:-1 tvg-id="23" tvg-language="CN" tvg-logo="[object Promise]",CCTV-11
+#EXTGRP:cctv
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-language="CN" tvg-logo="[object Promise]",CCTV-11
+#EXTGRP:cctv
+http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227384/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-language="CN" tvg-logo="[object Promise]",CCTV-11
+#EXTGRP:cctv
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-language="CN" tvg-logo="[object Promise]",CCTV-11HD
+#EXTGRP:cctv
+http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-language="CN" tvg-logo="[object Promise]",CCTV-11HD
+#EXTGRP:cctv
+http://117.169.120.140:8080/live/cctv-11/.m3u8
+#EXTINF:-1 tvg-id="25" tvg-language="CN" tvg-logo="[object Promise]",CCTV-12
+#EXTGRP:cctv
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-language="CN" tvg-logo="[object Promise]",CCTV-12
+#EXTGRP:cctv
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-language="CN" tvg-logo="[object Promise]",CCTV-12
+#EXTGRP:cctv
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-language="CN" tvg-logo="[object Promise]",CCTV-12HD
+#EXTGRP:cctv
+http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-language="CN" tvg-logo="[object Promise]",CCTV-12HD
+#EXTGRP:cctv
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-language="CN" tvg-logo="[object Promise]",CCTV-12HD
+#EXTGRP:cctv
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-language="CN" tvg-logo="[object Promise]",CCTV-13
+#EXTGRP:cctv
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221228121/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-language="CN" tvg-logo="[object Promise]",CCTV-13
+#EXTGRP:cctv
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228224/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-language="CN" tvg-logo="[object Promise]",CCTV-13
+#EXTGRP:cctv
+http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-language="CN" tvg-logo="[object Promise]",CCTV-13HD
+#EXTGRP:cctv
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-language="CN" tvg-logo="[object Promise]",CCTV-13HD
+#EXTGRP:cctv
+http://183.207.249.71/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-language="CN" tvg-logo="[object Promise]",CCTV-14
+#EXTGRP:cctv
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-language="CN" tvg-logo="[object Promise]",CCTV-14
+#EXTGRP:cctv
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-language="CN" tvg-logo="[object Promise]",CCTV-14
+#EXTGRP:cctv
+http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-language="CN" tvg-logo="[object Promise]",CCTV-14HD
+#EXTGRP:cctv
+http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-language="CN" tvg-logo="[object Promise]",CCTV-14HD
+#EXTGRP:cctv
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-language="CN" tvg-logo="[object Promise]",CCTV-15
+#EXTGRP:cctv
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-language="CN" tvg-logo="[object Promise]",CCTV-15
+#EXTGRP:cctv
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-language="CN" tvg-logo="[object Promise]",CCTV-15
+#EXTGRP:cctv
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-language="CN" tvg-logo="[object Promise]",CCTV-15HD
+#EXTGRP:cctv
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-language="CN" tvg-logo="[object Promise]",CCTV-16
+#EXTGRP:cctv
+http://223.110.236.59/ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-language="CN" tvg-logo="[object Promise]",CCTV-16
+#EXTGRP:cctv
+http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-language="CN" tvg-logo="[object Promise]",CCTV-16-4K
+#EXTGRP:cctv
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-language="CN" tvg-logo="[object Promise]",CCTV-17
+#EXTGRP:cctv
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227639/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-language="CN" tvg-logo="[object Promise]",CCTV-17
+#EXTGRP:cctv
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227578/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-language="CN" tvg-logo="[object Promise]",CCTV-17
+#EXTGRP:cctv
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-language="CN" tvg-logo="[object Promise]",CCTV-17HD
+#EXTGRP:cctv
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-language="CN" tvg-logo="[object Promise]",CCTV-高尔夫网球
+#EXTGRP:cctv
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-language="CN" tvg-logo="[object Promise]",CCTV-高尔夫网球
+#EXTGRP:cctv
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-language="CN" tvg-logo="[object Promise]",CCTV-老故事
+#EXTGRP:cctv
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-language="CN" tvg-logo="[object Promise]",CCTV-老故事
+#EXTGRP:cctv
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-language="CN" tvg-logo="[object Promise]",CCTV-女性时尚
+#EXTGRP:cctv
+http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-language="CN" tvg-logo="[object Promise]",CCTV-女性时尚
+#EXTGRP:cctv
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-language="CN" tvg-logo="[object Promise]",CGTN
+#EXTGRP:cctv
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-language="CN" tvg-logo="[object Promise]",CGTN
+#EXTGRP:cctv
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-language="CN" tvg-logo="[object Promise]",CGTN
+#EXTGRP:cctv
+http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-language="CN" tvg-logo="[object Promise]",CGTN纪录
+#EXTGRP:cctv
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-language="CN" tvg-logo="[object Promise]",CGTN纪录
+#EXTGRP:cctv
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-language="CN" tvg-logo="[object Promise]",CGTN纪录
+#EXTGRP:cctv
+http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-language="CN" tvg-logo="[object Promise]",NewTV爱情喜剧
+#EXTGRP:special
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-language="CN" tvg-logo="[object Promise]",NewTV爱情喜剧
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-language="CN" tvg-logo="[object Promise]",NewTV爱情喜剧HD
+#EXTGRP:special
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-language="CN" tvg-logo="[object Promise]",NewTV搏击2
+#EXTGRP:special
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-language="CN" tvg-logo="[object Promise]",NewTV超级电视剧
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-language="CN" tvg-logo="[object Promise]",NewTV超级电影
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-language="CN" tvg-logo="[object Promise]",NewTV超级体育
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-language="CN" tvg-logo="[object Promise]",NewTV超级综艺
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-language="CN" tvg-logo="[object Promise]",NewTV潮妈辣婆
+#EXTGRP:special
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-language="CN" tvg-logo="[object Promise]",NewTV潮妈辣婆
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-language="CN" tvg-logo="[object Promise]",NewTV潮妈辣婆HD
+#EXTGRP:special
+http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-language="CN" tvg-logo="[object Promise]",NewTV东北热剧
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-language="CN" tvg-logo="[object Promise]",Newtv动画王国2
+#EXTGRP:special
+http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-language="CN" tvg-logo="[object Promise]",NewTV动画王国HD
+#EXTGRP:special
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-language="CN" tvg-logo="[object Promise]",NewTV动作电影
+#EXTGRP:special
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-language="CN" tvg-logo="[object Promise]",NewTV动作电影
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-language="CN" tvg-logo="[object Promise]",NewTV动作电影HD
+#EXTGRP:special
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-language="CN" tvg-logo="[object Promise]",NewTV古装剧场
+#EXTGRP:special
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-language="CN" tvg-logo="[object Promise]",NewTV古装剧场
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-language="CN" tvg-logo="[object Promise]",NewTV古装剧场HD
+#EXTGRP:special
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-language="CN" tvg-logo="[object Promise]",NewTV家庭剧场
+#EXTGRP:special
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-language="CN" tvg-logo="[object Promise]",NewTV家庭剧场
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-language="CN" tvg-logo="[object Promise]",NewTV家庭剧场
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-language="CN" tvg-logo="[object Promise]",NewTV家庭剧场HD
+#EXTGRP:special
+http://223.110.243.164/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-language="CN" tvg-logo="[object Promise]",NewTV金牌综艺
+#EXTGRP:special
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-language="CN" tvg-logo="[object Promise]",NewTV金牌综艺
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-language="CN" tvg-logo="[object Promise]",NewTV金牌综艺HD
+#EXTGRP:special
+http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-language="CN" tvg-logo="[object Promise]",NewTV惊悚悬疑
+#EXTGRP:special
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-language="CN" tvg-logo="[object Promise]",NewTV惊悚悬疑
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 tvg-id="63" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品大剧
+#EXTGRP:special
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 tvg-id="63" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品大剧
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 tvg-id="64" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品大剧HD
+#EXTGRP:special
+http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 tvg-id="65" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品电影HD
+#EXTGRP:special
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-id="65" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品电影HD
+#EXTGRP:special
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-id="66" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品纪录
+#EXTGRP:special
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-id="66" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品纪录
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品纪录HD
+#EXTGRP:special
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品体育
+#EXTGRP:special
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品体育
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-language="CN" tvg-logo="[object Promise]",NewTV精品体育HD
+#EXTGRP:special
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-id="70" tvg-language="CN" tvg-logo="[object Promise]",NewTV军旅剧场
+#EXTGRP:special
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 tvg-id="70" tvg-language="CN" tvg-logo="[object Promise]",NewTV军旅剧场
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-language="CN" tvg-logo="[object Promise]",NewTV军旅剧场HD
+#EXTGRP:special
+http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-language="CN" tvg-logo="[object Promise]",NewTV军事评论
+#EXTGRP:special
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-language="CN" tvg-logo="[object Promise]",NewTV军事评论
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-language="CN" tvg-logo="[object Promise]",NewTV明星大片
+#EXTGRP:special
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-language="CN" tvg-logo="[object Promise]",NewTV明星大片
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-id="74" tvg-language="CN" tvg-logo="[object Promise]",NewTV明星大片HD
+#EXTGRP:special
+http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 tvg-id="75" tvg-language="CN" tvg-logo="[object Promise]",NewTV农业致富
+#EXTGRP:special
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1 tvg-id="75" tvg-language="CN" tvg-logo="[object Promise]",NewTV农业致富
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-language="CN" tvg-logo="[object Promise]",NewTV农业致富HD
+#EXTGRP:special
+http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-language="CN" tvg-logo="[object Promise]",NewTV武搏世界
+#EXTGRP:special
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-language="CN" tvg-logo="[object Promise]",NewTV武搏世界
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1 tvg-id="78" tvg-language="CN" tvg-logo="[object Promise]",NewTV武搏世界HD
+#EXTGRP:special
+http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-id="79" tvg-language="CN" tvg-logo="[object Promise]",NewTV炫舞未来
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="80" tvg-language="CN" tvg-logo="[object Promise]",NewTV怡伴健康
+#EXTGRP:special
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 tvg-id="80" tvg-language="CN" tvg-logo="[object Promise]",NewTV怡伴健康
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-language="CN" tvg-logo="[object Promise]",NewTV怡伴健康HD
+#EXTGRP:special
+http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-language="CN" tvg-logo="[object Promise]",NewTV中国功夫
+#EXTGRP:special
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-language="CN" tvg-logo="[object Promise]",NewTV中国功夫
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-language="CN" tvg-logo="[object Promise]",NNM家庭理财
+#EXTGRP:special
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227011/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-language="CN" tvg-logo="[object Promise]",NNM家庭理财
+#EXTGRP:special
+http://183.207.249.173/ott.js.chinamobile.com/PLTV/3/224/3221227011/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-language="CN" tvg-logo="[object Promise]",SiTV动漫秀场
+#EXTGRP:special
+http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-language="CN" tvg-logo="[object Promise]",SiTV都市剧场
+#EXTGRP:special
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+#EXTINF:-1 tvg-id="86" tvg-language="CN" tvg-logo="[object Promise]",SiTV欢笑剧场
+#EXTGRP:special
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-id="87" tvg-language="CN" tvg-logo="[object Promise]",SiTV全纪实
+#EXTGRP:special
+http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
+#EXTINF:-1 tvg-id="88" tvg-language="CN" tvg-logo="[object Promise]",百事通体育
+#EXTGRP:special
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:-1 tvg-id="88" tvg-language="CN" tvg-logo="[object Promise]",百事通体育
+#EXTGRP:special
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:-1 tvg-id="89" tvg-language="CN" tvg-logo="[object Promise]",百视通体育
+#EXTGRP:special
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221226805/index.m3u8
+#EXTINF:-1 tvg-id="89" tvg-language="CN" tvg-logo="[object Promise]",百视通体育
+#EXTGRP:special
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221226807/index.m3u8
+#EXTINF:-1 tvg-id="89" tvg-language="CN" tvg-logo="[object Promise]",百视通体育
+#EXTGRP:special
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221226943/index.m3u8
+#EXTINF:-1 tvg-id="90" tvg-language="CN" tvg-logo="[object Promise]",纯享4K
+#EXTGRP:special
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-id="91" tvg-language="CN" tvg-logo="[object Promise]",动画王国
+#EXTGRP:special
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="91" tvg-language="CN" tvg-logo="[object Promise]",动画王国
+#EXTGRP:special
+http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="92" tvg-language="CN" tvg-logo="[object Promise]",黑莓电影
+#EXTGRP:special
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-id="92" tvg-language="CN" tvg-logo="[object Promise]",黑莓电影
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-language="CN" tvg-logo="[object Promise]",黑莓动画
+#EXTGRP:special
+http://223.110.235.21/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-language="CN" tvg-logo="[object Promise]",黑莓动画
+#EXTGRP:special
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227523/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-language="CN" tvg-logo="[object Promise]",黑莓动画
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-language="CN" tvg-logo="[object Promise]",黑莓动画HD
+#EXTGRP:special
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="95" tvg-language="CN" tvg-logo="[object Promise]",京视剧场
+#EXTGRP:special
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-language="CN" tvg-logo="[object Promise]",聚鲨环球精选
+#EXTGRP:special
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227529/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-language="CN" tvg-logo="[object Promise]",聚鲨环球精选
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="97" tvg-language="CN" tvg-logo="[object Promise]",篮球
+#EXTGRP:special
+http://223.110.245.139:80/PLTV/4/224/3221227023/index.m3u8
+#EXTINF:-1 tvg-id="98" tvg-language="CN" tvg-logo="[object Promise]",咪咕怀旧剧场
+#EXTGRP:special
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228120/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-language="CN" tvg-logo="[object Promise]",咪咕视频
+#EXTGRP:special
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228155/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-language="CN" tvg-logo="[object Promise]",咪咕视频
+#EXTGRP:special
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228087/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-language="CN" tvg-logo="[object Promise]",咪咕视频
+#EXTGRP:special
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221228117/index.m3u8
+#EXTINF:-1 tvg-id="100" tvg-language="CN" tvg-logo="[object Promise]",咪咕直播
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:-1 tvg-id="101" tvg-language="CN" tvg-logo="[object Promise]",求索动物
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-language="CN" tvg-logo="[object Promise]",求索纪录
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-language="CN" tvg-logo="[object Promise]",求索科学
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-language="CN" tvg-logo="[object Promise]",求索生活
+#EXTGRP:special
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="105" tvg-language="CN" tvg-logo="[object Promise]",生活频道
+#EXTGRP:special
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-language="CN" tvg-logo="[object Promise]",五星体育
+#EXTGRP:special
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/2.m3u8
+#EXTINF:-1 tvg-id="107" tvg-language="CN" tvg-logo="[object Promise]",弈坛春秋
+#EXTGRP:special
+http://183.207.248.71/gitv/live1/G_YITANCQ/G_YITANCQ
+#EXTINF:-1 tvg-id="107" tvg-language="CN" tvg-logo="[object Promise]",弈坛春秋
+#EXTGRP:special
+http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-language="CN" tvg-logo="[object Promise]",置业频道
+#EXTGRP:special
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-language="CN" tvg-logo="[object Promise]",置业频道
+#EXTGRP:special
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-language="CN" tvg-logo="[object Promise]",安徽卫视
+#EXTGRP:weishi
+http://223.110.235.21/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-language="CN" tvg-logo="[object Promise]",安徽卫视
+#EXTGRP:weishi
+http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-language="CN" tvg-logo="[object Promise]",安徽卫视
+#EXTGRP:weishi
+http://183.207.249.173/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-language="CN" tvg-logo="[object Promise]",安徽卫视HD
+#EXTGRP:weishi
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-language="CN" tvg-logo="[object Promise]",安徽卫视HD
+#EXTGRP:weishi
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="111" tvg-language="CN" tvg-logo="[object Promise]",北京卫视
+#EXTGRP:weishi
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
+#EXTINF:-1 tvg-id="111" tvg-language="CN" tvg-logo="[object Promise]",北京卫视
+#EXTGRP:weishi
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
+#EXTINF:-1 tvg-id="111" tvg-language="CN" tvg-logo="[object Promise]",北京卫视
+#EXTGRP:weishi
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221228115/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-language="CN" tvg-logo="[object Promise]",北京卫视HD
+#EXTGRP:weishi
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227390/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-language="CN" tvg-logo="[object Promise]",北京卫视HD
+#EXTGRP:weishi
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-language="CN" tvg-logo="[object Promise]",北京卫视HD
+#EXTGRP:weishi
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 tvg-id="113" tvg-language="CN" tvg-logo="[object Promise]",东方卫视
+#EXTGRP:weishi
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
+#EXTINF:-1 tvg-id="113" tvg-language="CN" tvg-logo="[object Promise]",东方卫视
+#EXTGRP:weishi
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
+#EXTINF:-1 tvg-id="113" tvg-language="CN" tvg-logo="[object Promise]",东方卫视
+#EXTGRP:weishi
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221228150/index.m3u8
+#EXTINF:-1 tvg-id="114" tvg-language="CN" tvg-logo="[object Promise]",东方卫视HD
+#EXTGRP:weishi
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227688/index.m3u8
+#EXTINF:-1 tvg-id="114" tvg-language="CN" tvg-logo="[object Promise]",东方卫视HD
+#EXTGRP:weishi
+http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
+#EXTINF:-1 tvg-id="114" tvg-language="CN" tvg-logo="[object Promise]",东方卫视HD
+#EXTGRP:weishi
+http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227511/index.m3u8
+#EXTINF:-1 tvg-id="115" tvg-language="CN" tvg-logo="[object Promise]",东南卫视
+#EXTGRP:weishi
+http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1 tvg-id="115" tvg-language="CN" tvg-logo="[object Promise]",东南卫视
+#EXTGRP:weishi
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
+#EXTINF:-1 tvg-id="115" tvg-language="CN" tvg-logo="[object Promise]",东南卫视
+#EXTGRP:weishi
+http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8
+#EXTINF:-1 tvg-id="116" tvg-language="CN" tvg-logo="[object Promise]",东南卫视HD
+#EXTGRP:weishi
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
+#EXTINF:-1 tvg-id="116" tvg-language="CN" tvg-logo="[object Promise]",东南卫视HD
+#EXTGRP:weishi
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1 tvg-id="117" tvg-language="CN" tvg-logo="[object Promise]",凤凰卫视香港台
+#EXTGRP:weishi
+http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 tvg-id="117" tvg-language="CN" tvg-logo="[object Promise]",凤凰卫视香港台
+#EXTGRP:weishi
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="118" tvg-language="CN" tvg-logo="[object Promise]",凤凰卫视中文台
+#EXTGRP:weishi
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-id="118" tvg-language="CN" tvg-logo="[object Promise]",凤凰卫视中文台
+#EXTGRP:weishi
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 tvg-id="119" tvg-language="CN" tvg-logo="[object Promise]",凤凰卫视中文台HD
+#EXTGRP:weishi
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-id="120" tvg-language="CN" tvg-logo="[object Promise]",凤凰卫视资讯台
+#EXTGRP:weishi
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-id="120" tvg-language="CN" tvg-logo="[object Promise]",凤凰卫视资讯台
+#EXTGRP:weishi
+http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-id="120" tvg-language="CN" tvg-logo="[object Promise]",凤凰卫视资讯台
+#EXTGRP:weishi
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-id="121" tvg-language="CN" tvg-logo="[object Promise]",甘肃卫视
+#EXTGRP:weishi
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 tvg-id="121" tvg-language="CN" tvg-logo="[object Promise]",甘肃卫视
+#EXTGRP:weishi
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221228166/index.m3u8
+#EXTINF:-1 tvg-id="121" tvg-language="CN" tvg-logo="[object Promise]",甘肃卫视
+#EXTGRP:weishi
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 tvg-id="122" tvg-language="CN" tvg-logo="[object Promise]",广东卫视
+#EXTGRP:weishi
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
+#EXTINF:-1 tvg-id="122" tvg-language="CN" tvg-logo="[object Promise]",广东卫视
+#EXTGRP:weishi
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228230/index.m3u8
+#EXTINF:-1 tvg-id="122" tvg-language="CN" tvg-logo="[object Promise]",广东卫视
+#EXTGRP:weishi
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227691/index.m3u8
+#EXTINF:-1 tvg-id="123" tvg-language="CN" tvg-logo="[object Promise]",广东卫视HD
+#EXTGRP:weishi
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
+#EXTINF:-1 tvg-id="123" tvg-language="CN" tvg-logo="[object Promise]",广东卫视HD
+#EXTGRP:weishi
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
+#EXTINF:-1 tvg-id="123" tvg-language="CN" tvg-logo="[object Promise]",广东卫视HD
+#EXTGRP:weishi
+http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
+#EXTINF:-1 tvg-id="124" tvg-language="CN" tvg-logo="[object Promise]",广西卫视
+#EXTGRP:weishi
+http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227609/index.m3u8
+#EXTINF:-1 tvg-id="124" tvg-language="CN" tvg-logo="[object Promise]",广西卫视
+#EXTGRP:weishi
+http://183.207.249.172/ott.js.chinamobile.com/PLTV/3/224/3221225806/index.m3u8
+#EXTINF:-1 tvg-id="124" tvg-language="CN" tvg-logo="[object Promise]",广西卫视
+#EXTGRP:weishi
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227609/index.m3u8
+#EXTINF:-1 tvg-id="125" tvg-language="CN" tvg-logo="[object Promise]",贵州卫视
+#EXTGRP:weishi
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
+#EXTINF:-1 tvg-id="125" tvg-language="CN" tvg-logo="[object Promise]",贵州卫视
+#EXTGRP:weishi
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227551/index.m3u8
+#EXTINF:-1 tvg-id="125" tvg-language="CN" tvg-logo="[object Promise]",贵州卫视
+#EXTGRP:weishi
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-language="CN" tvg-logo="[object Promise]",海南卫视
+#EXTGRP:weishi
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228101/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-language="CN" tvg-logo="[object Promise]",海南卫视
+#EXTGRP:weishi
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228139/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-language="CN" tvg-logo="[object Promise]",海南卫视
+#EXTGRP:weishi
+http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-language="CN" tvg-logo="[object Promise]",河北卫视
+#EXTGRP:weishi
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227545/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-language="CN" tvg-logo="[object Promise]",河北卫视
+#EXTGRP:weishi
+http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-language="CN" tvg-logo="[object Promise]",河北卫视
+#EXTGRP:weishi
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228106/index.m3u8
+#EXTINF:-1 tvg-id="128" tvg-language="CN" tvg-logo="[object Promise]",河南卫视
+#EXTGRP:weishi
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-id="128" tvg-language="CN" tvg-logo="[object Promise]",河南卫视
+#EXTGRP:weishi
+http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-id="128" tvg-language="CN" tvg-logo="[object Promise]",河南卫视
+#EXTGRP:weishi
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227521/index.m3u8
+#EXTINF:-1 tvg-id="129" tvg-language="CN" tvg-logo="[object Promise]",河南卫视HD
+#EXTGRP:weishi
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-language="CN" tvg-logo="[object Promise]",黑龙江卫视
+#EXTGRP:weishi
+http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-language="CN" tvg-logo="[object Promise]",黑龙江卫视
+#EXTGRP:weishi
+http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-language="CN" tvg-logo="[object Promise]",黑龙江卫视
+#EXTGRP:weishi
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-language="CN" tvg-logo="[object Promise]",黑龙江卫视HD
+#EXTGRP:weishi
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227638/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-language="CN" tvg-logo="[object Promise]",黑龙江卫视HD
+#EXTGRP:weishi
+http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-language="CN" tvg-logo="[object Promise]",黑龙江卫视HD
+#EXTGRP:weishi
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-language="CN" tvg-logo="[object Promise]",湖北卫视
+#EXTGRP:weishi
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-language="CN" tvg-logo="[object Promise]",湖北卫视
+#EXTGRP:weishi
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-language="CN" tvg-logo="[object Promise]",湖北卫视
+#EXTGRP:weishi
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227565/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-language="CN" tvg-logo="[object Promise]",湖北卫视HD
+#EXTGRP:weishi
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-language="CN" tvg-logo="[object Promise]",湖北卫视HD
+#EXTGRP:weishi
+http://223.110.245.166/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-language="CN" tvg-logo="[object Promise]",湖北卫视HD
+#EXTGRP:weishi
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
+#EXTINF:-1 tvg-id="134" tvg-language="CN" tvg-logo="[object Promise]",湖南卫视
+#EXTGRP:weishi
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227320/index.m3u8
+#EXTINF:-1 tvg-id="134" tvg-language="CN" tvg-logo="[object Promise]",湖南卫视
+#EXTGRP:weishi
+http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221227698/index.m3u8
+#EXTINF:-1 tvg-id="134" tvg-language="CN" tvg-logo="[object Promise]",湖南卫视
+#EXTGRP:weishi
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227482/index.m3u8
+#EXTINF:-1 tvg-id="135" tvg-language="CN" tvg-logo="[object Promise]",湖南卫视HD
+#EXTGRP:weishi
+http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
+#EXTINF:-1 tvg-id="135" tvg-language="CN" tvg-logo="[object Promise]",湖南卫视HD
+#EXTGRP:weishi
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227698/index.m3u8
+#EXTINF:-1 tvg-id="135" tvg-language="CN" tvg-logo="[object Promise]",湖南卫视HD
+#EXTGRP:weishi
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
+#EXTINF:-1 tvg-id="136" tvg-language="CN" tvg-logo="[object Promise]",吉林卫视
+#EXTGRP:weishi
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221228028/index.m3u8
+#EXTINF:-1 tvg-id="136" tvg-language="CN" tvg-logo="[object Promise]",吉林卫视
+#EXTGRP:weishi
+http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
+#EXTINF:-1 tvg-id="136" tvg-language="CN" tvg-logo="[object Promise]",吉林卫视
+#EXTGRP:weishi
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
+#EXTINF:-1 tvg-id="137" tvg-language="CN" tvg-logo="[object Promise]",吉林卫视HD
+#EXTGRP:weishi
+http://117.169.120.140:8080/live/jilinstv/.m3u8
+#EXTINF:-1 tvg-id="138" tvg-language="CN" tvg-logo="[object Promise]",吉林延边卫视
+#EXTGRP:weishi
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
+#EXTINF:-1 tvg-id="138" tvg-language="CN" tvg-logo="[object Promise]",吉林延边卫视
+#EXTGRP:weishi
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227590/index.m3u8
+#EXTINF:-1 tvg-id="139" tvg-language="CN" tvg-logo="[object Promise]",江苏卫视
+#EXTGRP:weishi
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228052/index.m3u8
+#EXTINF:-1 tvg-id="139" tvg-language="CN" tvg-logo="[object Promise]",江苏卫视
+#EXTGRP:weishi
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227739/index.m3u8
+#EXTINF:-1 tvg-id="139" tvg-language="CN" tvg-logo="[object Promise]",江苏卫视
+#EXTGRP:weishi
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227792/index.m3u8
+#EXTINF:-1 tvg-id="140" tvg-language="CN" tvg-logo="[object Promise]",江苏卫视HD
+#EXTGRP:weishi
+http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227561/index.m3u8
+#EXTINF:-1 tvg-id="140" tvg-language="CN" tvg-logo="[object Promise]",江苏卫视HD
+#EXTGRP:weishi
+http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?i
+#EXTINF:-1 tvg-id="140" tvg-language="CN" tvg-logo="[object Promise]",江苏卫视HD
+#EXTGRP:weishi
+http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
+#EXTINF:-1 tvg-id="141" tvg-language="CN" tvg-logo="[object Promise]",江西卫视
+#EXTGRP:weishi
+http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221225798/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-language="CN" tvg-logo="[object Promise]",江西卫视
+#EXTGRP:weishi
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228109/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-language="CN" tvg-logo="[object Promise]",江西卫视
+#EXTGRP:weishi
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-language="CN" tvg-logo="[object Promise]",江西卫视HD
+#EXTGRP:weishi
+http://117.169.120.140:8080/live/jiangxistv/.m3u8
+#EXTINF:-1 tvg-id="143" tvg-language="CN" tvg-logo="[object Promise]",辽宁卫视
+#EXTGRP:weishi
+http://183.207.249.9/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-language="CN" tvg-logo="[object Promise]",辽宁卫视
+#EXTGRP:weishi
+http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221228162/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-language="CN" tvg-logo="[object Promise]",辽宁卫视
+#EXTGRP:weishi
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227700/index.m3u8
+#EXTINF:-1 tvg-id="144" tvg-language="CN" tvg-logo="[object Promise]",辽宁卫视HD
+#EXTGRP:weishi
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
+#EXTINF:-1 tvg-id="144" tvg-language="CN" tvg-logo="[object Promise]",辽宁卫视HD
+#EXTGRP:weishi
+http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1 tvg-id="145" tvg-language="CN" tvg-logo="[object Promise]",旅游卫视
+#EXTGRP:weishi
+http://183.207.248.11/PLTV/4/224/3221225810/index.m3u8
+#EXTINF:-1 tvg-id="146" tvg-language="CN" tvg-logo="[object Promise]",内蒙古卫视
+#EXTGRP:weishi
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227557/index.m3u8
+#EXTINF:-1 tvg-id="146" tvg-language="CN" tvg-logo="[object Promise]",内蒙古卫视
+#EXTGRP:weishi
+http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
+#EXTINF:-1 tvg-id="146" tvg-language="CN" tvg-logo="[object Promise]",内蒙古卫视
+#EXTGRP:weishi
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
+#EXTINF:-1 tvg-id="147" tvg-language="CN" tvg-logo="[object Promise]",宁夏卫视
+#EXTGRP:weishi
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227563/index.m3u8
+#EXTINF:-1 tvg-id="147" tvg-language="CN" tvg-logo="[object Promise]",宁夏卫视
+#EXTGRP:weishi
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227563/index.m3u8
+#EXTINF:-1 tvg-id="147" tvg-language="CN" tvg-logo="[object Promise]",宁夏卫视
+#EXTGRP:weishi
+http://117.169.120.140:8080/live/ningxiastv/.m3u8
+#EXTINF:-1 tvg-id="148" tvg-language="CN" tvg-logo="[object Promise]",青海安多卫视
+#EXTGRP:weishi
+http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
+#EXTINF:-1 tvg-id="148" tvg-language="CN" tvg-logo="[object Promise]",青海安多卫视
+#EXTGRP:weishi
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226999/index.m3u8
+#EXTINF:-1 tvg-id="149" tvg-language="CN" tvg-logo="[object Promise]",青海卫视
+#EXTGRP:weishi
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
+#EXTINF:-1 tvg-id="149" tvg-language="CN" tvg-logo="[object Promise]",青海卫视
+#EXTGRP:weishi
+http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
+#EXTINF:-1 tvg-id="149" tvg-language="CN" tvg-logo="[object Promise]",青海卫视
+#EXTGRP:weishi
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
+#EXTINF:-1 tvg-id="150" tvg-language="CN" tvg-logo="[object Promise]",厦门卫视
+#EXTGRP:weishi
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 tvg-id="151" tvg-language="CN" tvg-logo="[object Promise]",山东教育卫视
+#EXTGRP:weishi
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
+#EXTINF:-1 tvg-id="152" tvg-language="CN" tvg-logo="[object Promise]",山东卫视
+#EXTGRP:weishi
+http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221227310/index.m3u8
+#EXTINF:-1 tvg-id="152" tvg-language="CN" tvg-logo="[object Promise]",山东卫视
+#EXTGRP:weishi
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
+#EXTINF:-1 tvg-id="152" tvg-language="CN" tvg-logo="[object Promise]",山东卫视
+#EXTGRP:weishi
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227697/index.m3u8
