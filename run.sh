@@ -1,1 +1,1 @@
-nohup node index.mjs >> message.log 2>&1 &
+nohup ./env node index.mjs >> message.log 2>&1 &

@@ -14,3 +14,7 @@ export const groupTitle = {
     "weishi": "卫视",
     "special": "特色"
 };
+
+export const definitionTitle = ['流畅','标清','高清','全高清','4K'];
+
+export const playlistTitle = "老牛之家";
