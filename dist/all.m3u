@@ -1,722 +1,762 @@
 #EXTM3U
 #PLAYLIST:老牛之家
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1-高清-720X576
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1-高清-720X576
 http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227292/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1-4K-1920X1088
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV4" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV9" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9-高清-720X576
+http://183.207.248.11/PLTV/4/224/3221225868/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV9" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD-高清-720X576
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225868/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV13" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13HD-高清-720X576
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV15" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15-高清-720X576
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV15" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15-高清-720X576
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV17" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17-高清-720X576
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227639/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CCTV-高尔夫网球-高清-720X576
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CCTV-老故事-高清-720X576
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CCTV-老故事-高清-720X576
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CCTV-女性时尚-高清-720X576
+http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CCTV-女性时尚-高清-720X576
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CGTN-高清-720X576
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CGTN-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CGTN-高清-720X576
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CGTN纪录-高清-720X576
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CGTN纪录-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="" group-title="央视" group-title="高清" group-title="高清电视" tvg-language="CN",CGTN纪录-高清-720X576
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="NNM家庭理财" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",NNM家庭理财-高清-720X576
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227011/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="NNM家庭理财" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",NNM家庭理财-高清-720X576
+http://183.207.249.173/ott.js.chinamobile.com/PLTV/3/224/3221227011/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="百事通体育" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",百事通体育-高清-640X368
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="百视通体育" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",百视通体育-高清-640X368
+http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221226801/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="京视剧场" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",京视剧场-高清-720X576
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="聚鲨环球精选" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",聚鲨环球精选-高清-720X576
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227529/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="聚鲨环球精选" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",聚鲨环球精选-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="篮球" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",篮球-高清-720X576
+http://223.110.245.139:80/PLTV/4/224/3221227023/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="生活频道" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",生活频道-高清-720X576
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="弈坛春秋" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",弈坛春秋-高清-720X576
+http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="弈坛春秋" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",弈坛春秋-高清-720X576
+http://183.207.248.71/gitv/live1/G_YITANCQ/G_YITANCQ
+#EXTINF:-1 tvg-id="22" tvg-name="置业频道" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",置业频道-高清-720X576
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="置业频道" group-title="特色" group-title="高清" group-title="高清电视" tvg-language="CN",置业频道-高清-720X576
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="安徽卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",安徽卫视-高清-720X576
+http://223.110.235.21/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="安徽卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",安徽卫视-高清-720X576
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="东南卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",东南卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="甘肃卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",甘肃卫视-高清-720X576
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="甘肃卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",甘肃卫视-高清-720X576
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221228166/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="甘肃卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",甘肃卫视-高清-720X576
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="广西卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",广西卫视-高清-720X576
+http://183.207.249.172/ott.js.chinamobile.com/PLTV/3/224/3221225806/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="广西卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",广西卫视-高清-720X576
+http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227609/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="广西卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",广西卫视-高清-720X576
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227609/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="贵州卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",贵州卫视-高清-720X576
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227551/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="贵州卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",贵州卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="贵州卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",贵州卫视-高清-720X576
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="海南卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",海南卫视-高清-720X576
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228101/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="海南卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",海南卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="河北卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",河北卫视-高清-720X576
+http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227545/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="河北卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",河北卫视-高清-720X576
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227545/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="河北卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",河北卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="河南卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",河南卫视-高清-720X576
+http://223.110.236.6/ott.js.chinamobile.com/PLTV/3/224/3221227521/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="河南卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",河南卫视-高清-720X576
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="河南卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",河南卫视-高清-720X576
+http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="河南卫视HD" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",河南卫视HD-高清-720X576
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="吉林卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",吉林卫视-高清-720X576
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221228028/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="吉林卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",吉林卫视-高清-720X576
+http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="吉林卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",吉林卫视-高清-720X576
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="吉林卫视HD" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",吉林卫视HD-高清-720X576
+http://117.169.120.140:8080/live/jilinstv/.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="吉林延边卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",吉林延边卫视-高清-720X576
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="吉林延边卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",吉林延边卫视-高清-720X576
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227590/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="江苏卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",江苏卫视-高清-720X576
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228052/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="江苏卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",江苏卫视-高清-720X576
+http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="江西卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",江西卫视-高清-720X576
+http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221225798/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="辽宁卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",辽宁卫视-高清-720X576
+http://183.207.249.9/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="辽宁卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",辽宁卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="辽宁卫视HD" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",辽宁卫视HD-高清-720X576
+http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="旅游卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",旅游卫视-高清-720X576
+http://183.207.248.11/PLTV/4/224/3221225810/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="内蒙古卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",内蒙古卫视-高清-720X576
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="内蒙古卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",内蒙古卫视-高清-720X576
+http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="内蒙古卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",内蒙古卫视-高清-720X576
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227557/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="宁夏卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",宁夏卫视-高清-720X576
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227563/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="宁夏卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",宁夏卫视-高清-720X576
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="宁夏卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",宁夏卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225579/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="青海安多卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",青海安多卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="青海安多卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",青海安多卫视-高清-720X576
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226999/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="青海卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",青海卫视-高清-720X576
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="青海卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",青海卫视-高清-720X576
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="青海卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",青海卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="厦门卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",厦门卫视-高清-720X576
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="山东教育卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",山东教育卫视-高清-720X576
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="山西卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",山西卫视-高清-720X576
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227559/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="山西卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",山西卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225496/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="陕西农林卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",陕西农林卫视-高清-720X576
+http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227648/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="陕西卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",陕西卫视-高清-720X576
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227583/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="陕西卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",陕西卫视-高清-720X576
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227583/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="陕西卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",陕西卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="四川康巴卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",四川康巴卫视-高清-720X576
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227645/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="四川康巴卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",四川康巴卫视-高清-720X576
+http://223.110.236.14/ott.js.chinamobile.com/PLTV/3/224/3221227651/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="四川康巴卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",四川康巴卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",四川卫视-高清-720X576
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227556/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",四川卫视-高清-720X576
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",四川卫视-高清-720X576
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227556/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="四川卫视HD" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",四川卫视HD-高清-720X576
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="四川卫视HD" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",四川卫视HD-高清-720X576
+http://117.169.120.140:8080/live/sichuanstv/.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="天津卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",天津卫视-高清-720X576
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="西藏卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",西藏卫视-高清-720X576
+http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="新疆卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",新疆卫视-高清-720X576
+http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227627/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="延边卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",延边卫视-高清-720X576
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="云南卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",云南卫视-高清-720X576
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227571/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="云南卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",云南卫视-高清-720X576
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="云南卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",云南卫视-高清-720X576
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="重庆卫视" group-title="卫视" group-title="高清" group-title="高清电视" tvg-language="CN",重庆卫视-高清-720X576
+http://39.134.66.66/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1-4K-1920X1088
 http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1-4K-1920X1088
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1-4K-1920X1088
 http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1-4K-1920X1088
+http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV1" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1HD-4K-1920X1088
 http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1HD-4K-1920X1088
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1HD-4K-1920X1088
 http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1HD-4K-1920X1088
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1HD-4K-1920X1088
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV2" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV2" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2-4K-1920X1088
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV2" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2-4K-1920X1088
 http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV2" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2-4K-1920X1088
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV2" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2-4K-1920X1088
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV2" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2-4K-1920X1088
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221228118/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV2" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2HD-4K-1920X1088
 http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV2" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2HD-4K-1920X1088
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV2" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2HD-4K-1920X1088
 http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV3" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3-4K-1920X1088
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227623/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV3" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3-4K-1920X1088
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV3" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3-4K-1920X1088
 http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV3" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3-4K-1920X1088
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV3" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3-4K-1920X1088
 http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV3" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD-4K-1920X1088
 http://183.207.249.71/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV3" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD-4K-1920X1088
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV3" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD-4K-1920X1088
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV3" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD-4K-1920X1088
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV3" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD-4K-1920X1088
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV4" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV4" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4-4K-1920X1088
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV4" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4-4K-1920X1088
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV4" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4-4K-1920X1088
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV4" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4-4K-1920X1088
 http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221228156/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV4" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4-4K-1920X1088
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV4" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4K-4K-3840X2160
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV5" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5-4K-1920X1088
 http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221227452/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV5" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5-4K-1920X1088
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV5" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5-4K-1920X1088
 http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227640/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV5" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5-4K-1920X1088
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV5" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5-4K-1920X1088
 http://223.110.235.37/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV5+" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+-4K-1920X1088
 http://223.110.236.53/ott.js.chinamobile.com/PLTV/3/224/3221228114/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV5+" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+-4K-1920X1088
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV5+" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV5+" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+-4K-1920X1088
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV5+" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+-4K-1920X1088
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228176/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV5+" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+HD-4K-1920X1088
 http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227685/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV5+" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+HD-4K-1920X1088
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV5+" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+HD-4K-1920X1088
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV5+" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+HD-4K-1920X1088
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV5+" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+HD-4K-1920X1088
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV5" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5HD-4K-1920X1088
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV5" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5HD-4K-1920X1088
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV5" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5HD-4K-1920X1088
 http://223.110.245.170/PLTV/3/224/3221227166/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV5" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5HD-4K-1920X1088
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV5" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5HD-4K-1920X1088
 http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV6" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6-4K-1920X1088
 http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV6" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6-4K-1920X1088
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV6" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6-4K-1920X1088
 http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV6" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6-4K-1920X1088
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV6" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6-4K-1920X1088
 http://223.110.236.57/ott.js.chinamobile.com/PLTV/3/224/3221228185/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV6" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD-4K-1920X1088
 http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV6" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD-4K-1920X1088
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV6" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD-4K-1920X1088
 http://223.110.245.172/PLTV/3/224/3221227209/index.m3u8?icpid=88888888&from=0&hms_devid=3
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV6" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD-4K-1920X1088
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV6" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD-4K-1920X1088
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV7" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7-4K-1920X1088
 http://183.207.249.9/PLTV/3/224/3221225546/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV7" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7-4K-1920X1088
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV7" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV7" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7-4K-1920X1088
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV7" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7-4K-1920X1088
 http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV7" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7HD-4K-1920X1088
 http://183.207.249.71/PLTV/3/224/3221225546/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV7" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7HD-4K-1920X1088
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV7" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7HD-4K-1920X1088
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV8" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8-4K-1920X1088
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV8" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8-4K-1920X1088
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV8" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8-4K-1920X1088
 http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221228079/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV8" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8-4K-1920X1088
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV8" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8-4K-1920X1088
 http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV8" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD-4K-1920X1088
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV8" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD-4K-1920X1088
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV8" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD-4K-1920X1088
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV8" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD-4K-1920X1088
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV8" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD-4K-1920X1088
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV9" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9-高清-720X576
-http://183.207.248.11/PLTV/4/224/3221225868/index.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV9" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9-4K-1920X1088
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV9" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9-4K-1920X1088
 http://183.207.249.6/PLTV/3/224/3221225532/1.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV9" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9-4K-1920X1088
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV9" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9-4K-1920X1088
 http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CCTV9" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD-高清-720X576
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225868/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CCTV9" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD-4K-1920X1088
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV9" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9-4K-1920X1088
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV9" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD-4K-1920X1088
 http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV10" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10-4K-1920X1088
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="CCTV10" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10-4K-1920X1088
+#EXTINF:-1 tvg-id="21" tvg-name="CCTV10" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10-4K-1920X1088
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="CCTV10" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10-4K-1920X1088
+#EXTINF:-1 tvg-id="21" tvg-name="CCTV10" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10-4K-1920X1088
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV10" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD-4K-1920X1088
 http://223.110.245.170/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="CCTV10" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD-4K-1920X1088
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV10" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD-4K-1920X1088
 http://183.207.249.71/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="CCTV10" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD-4K-1920X1088
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV10" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD-4K-1920X1088
 http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV11" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11-4K-1920X1088
 http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227384/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="CCTV11" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11-4K-1920X1088
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV11" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11-4K-1920X1088
 http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="CCTV11" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11-4K-1920X1088
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV11" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11-4K-1920X1088
 http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="CCTV11" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11HD-4K-1920X1088
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="CCTV11" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11HD-4K-1920X1088
+#EXTINF:-1 tvg-id="24" tvg-name="CCTV11" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11HD-4K-1920X1088
 http://117.169.120.140:8080/live/cctv-11/.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="CCTV12" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-4K-1920X1088
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="CCTV12" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-4K-1920X1088
+#EXTINF:-1 tvg-id="25" tvg-name="CCTV12" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-4K-1920X1088
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="CCTV12" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-4K-1920X1088
+#EXTINF:-1 tvg-id="25" tvg-name="CCTV12" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV12" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12HD-4K-1920X1088
 http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV12" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12HD-4K-1920X1088
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV12" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12HD-4K-1920X1088
 http://223.110.245.170/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV12" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12HD-4K-1920X1088
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV12" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12HD-4K-1920X1088
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV13" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13-4K-1920X1088
 http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221228121/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="CCTV13" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13-4K-1920X1088
+#EXTINF:-1 tvg-id="27" tvg-name="CCTV13" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13-4K-1920X1088
 http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="CCTV13" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13-4K-1920X1088
+#EXTINF:-1 tvg-id="27" tvg-name="CCTV13" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13-4K-1920X1088
 http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228224/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="CCTV13" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13HD-高清-720X576
-http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="CCTV13" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13HD-4K-1920X1088
+#EXTINF:-1 tvg-id="28" tvg-name="CCTV13" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13HD-4K-1920X1088
 http://183.207.249.71/PLTV/3/224/3221225560/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="CCTV14" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14-4K-1920X1088
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="CCTV14" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14-4K-1920X1088
+#EXTINF:-1 tvg-id="29" tvg-name="CCTV14" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14-4K-1920X1088
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="CCTV14" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14-4K-1920X1088
+#EXTINF:-1 tvg-id="29" tvg-name="CCTV14" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="CCTV14" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14HD-4K-1920X1088
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="CCTV14" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14HD-4K-1920X1088
+#EXTINF:-1 tvg-id="30" tvg-name="CCTV14" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14HD-4K-1920X1088
 http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="CCTV15" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15-高清-720X576
-http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="CCTV15" group-title="央视" group-title="高清" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15-高清-720X576
-http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="CCTV15" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15-4K-1920X1088
+#EXTINF:-1 tvg-id="31" tvg-name="CCTV15" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15-4K-1920X1088
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="CCTV15" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15-4K-1920X1088
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="CCTV15" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15-4K-1280X720
+http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="CCTV15" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15HD-4K-1920X1088
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="CCTV16" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16-4K-1920X1088
 http://223.110.236.59/ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="CCTV16" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16-4K-1920X1088
+#EXTINF:-1 tvg-id="33" tvg-name="CCTV16" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16-4K-1920X1088
 http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="CCTV16" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16-4K-4K-3840X2176
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="CCTV17" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17-高清-720X576
-http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227639/index.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="CCTV17" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17-4K-1920X1088
+#EXTINF:-1 tvg-id="35" tvg-name="CCTV17" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17-4K-1920X1088
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="CCTV17" group-title="央视" group-title="4K" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17-4K-1920X1088
+#EXTINF:-1 tvg-id="35" tvg-name="CCTV17" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17-4K-1920X1088
 http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="CCTV17" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17-4K-1920X1088
+http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227578/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="CCTV17" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17HD-4K-1920X1088
 http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN",CCTV-高尔夫网球-高清-720X576
-http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="" group-title="央视" group-title="4K" tvg-language="CN",CCTV-高尔夫网球-4K-1920X1088
+#EXTINF:-1 tvg-id="37" tvg-name="" group-title="央视" group-title="4K" group-title="大屏电视" tvg-language="CN",CCTV-高尔夫网球-4K-1920X1088
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN",CCTV-老故事-高清-720X576
-http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="" group-title="央视" group-title="高清" tvg-language="CN",CCTV-老故事-高清-720X576
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN",CCTV-女性时尚-高清-720X576
-http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="" group-title="央视" group-title="高清" tvg-language="CN",CCTV-女性时尚-高清-720X576
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN",CGTN-高清-720X576
-http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="" group-title="央视" group-title="高清" tvg-language="CN",CGTN-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="" group-title="央视" group-title="高清" tvg-language="CN",CGTN-高清-720X576
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="" group-title="央视" group-title="高清" group-title="老电视专用" tvg-language="CN",CGTN纪录-高清-720X576
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="" group-title="央视" group-title="高清" tvg-language="CN",CGTN纪录-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="" group-title="央视" group-title="高清" tvg-language="CN",CGTN纪录-高清-720X576
-http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="NewTV爱情喜剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV爱情喜剧-4K-1920X1088
+#EXTINF:-1 tvg-id="38" tvg-name="NewTV爱情喜剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV爱情喜剧-4K-1920X1088
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="NewTV爱情喜剧" group-title="特色" group-title="4K" tvg-language="CN",NewTV爱情喜剧-4K-1920X1088
+#EXTINF:-1 tvg-id="38" tvg-name="NewTV爱情喜剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV爱情喜剧-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="NewTV爱情喜剧HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV爱情喜剧HD-4K-1920X1088
+#EXTINF:-1 tvg-id="39" tvg-name="NewTV爱情喜剧HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV爱情喜剧HD-4K-1920X1088
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="NewTV搏击2" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV搏击2-4K-1280X720
+#EXTINF:-1 tvg-id="40" tvg-name="NewTV搏击2" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV搏击2-4K-1280X720
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="NewTV超级电视剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV超级电视剧-4K-1920X1088
+#EXTINF:-1 tvg-id="41" tvg-name="NewTV超级电视剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV超级电视剧-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="NewTV超级电影" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV超级电影-4K-1920X1088
+#EXTINF:-1 tvg-id="42" tvg-name="NewTV超级电影" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV超级电影-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="NewTV超级体育" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV超级体育-4K-1920X1088
+#EXTINF:-1 tvg-id="43" tvg-name="NewTV超级体育" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV超级体育-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="NewTV超级综艺" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV超级综艺-4K-1920X1088
+#EXTINF:-1 tvg-id="44" tvg-name="NewTV超级综艺" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV超级综艺-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="NewTV潮妈辣婆" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV潮妈辣婆-4K-1920X1088
+#EXTINF:-1 tvg-id="45" tvg-name="NewTV潮妈辣婆" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV潮妈辣婆-4K-1920X1088
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="NewTV潮妈辣婆" group-title="特色" group-title="4K" tvg-language="CN",NewTV潮妈辣婆-4K-1920X1088
+#EXTINF:-1 tvg-id="45" tvg-name="NewTV潮妈辣婆" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV潮妈辣婆-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="NewTV潮妈辣婆HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV潮妈辣婆HD-4K-1920X1088
+#EXTINF:-1 tvg-id="46" tvg-name="NewTV潮妈辣婆HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV潮妈辣婆HD-4K-1920X1088
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="NewTV东北热剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV东北热剧-4K-1920X1088
+#EXTINF:-1 tvg-id="47" tvg-name="NewTV东北热剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV东北热剧-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="Newtv动画王国2" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",Newtv动画王国2-4K-1920X1088
+#EXTINF:-1 tvg-id="48" tvg-name="Newtv动画王国2" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",Newtv动画王国2-4K-1920X1088
 http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="NewTV动画王国HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV动画王国HD-4K-1920X1088
+#EXTINF:-1 tvg-id="49" tvg-name="NewTV动画王国HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV动画王国HD-4K-1920X1088
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="NewTV动作电影" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV动作电影-4K-1920X1088
+#EXTINF:-1 tvg-id="50" tvg-name="NewTV动作电影" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV动作电影-4K-1920X1088
 http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="NewTV动作电影" group-title="特色" group-title="4K" tvg-language="CN",NewTV动作电影-4K-1920X1088
+#EXTINF:-1 tvg-id="50" tvg-name="NewTV动作电影" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV动作电影-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="NewTV动作电影HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV动作电影HD-4K-1920X1088
+#EXTINF:-1 tvg-id="51" tvg-name="NewTV动作电影HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV动作电影HD-4K-1920X1088
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="NewTV古装剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV古装剧场-4K-1920X1088
+#EXTINF:-1 tvg-id="52" tvg-name="NewTV古装剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV古装剧场-4K-1920X1088
 http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="NewTV古装剧场" group-title="特色" group-title="4K" tvg-language="CN",NewTV古装剧场-4K-1920X1088
+#EXTINF:-1 tvg-id="52" tvg-name="NewTV古装剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV古装剧场-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="NewTV古装剧场HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV古装剧场HD-4K-1920X1088
+#EXTINF:-1 tvg-id="53" tvg-name="NewTV古装剧场HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV古装剧场HD-4K-1920X1088
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="NewTV家庭剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV家庭剧场-4K-1920X1088
+#EXTINF:-1 tvg-id="54" tvg-name="NewTV家庭剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV家庭剧场-4K-1920X1088
 http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="NewTV家庭剧场" group-title="特色" group-title="4K" tvg-language="CN",NewTV家庭剧场-4K-1920X1088
+#EXTINF:-1 tvg-id="54" tvg-name="NewTV家庭剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV家庭剧场-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="NewTV家庭剧场" group-title="特色" group-title="4K" tvg-language="CN",NewTV家庭剧场-4K-1920X1088
+#EXTINF:-1 tvg-id="54" tvg-name="NewTV家庭剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV家庭剧场-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="NewTV家庭剧场HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV家庭剧场HD-4K-1920X1088
+#EXTINF:-1 tvg-id="55" tvg-name="NewTV家庭剧场HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV家庭剧场HD-4K-1920X1088
 http://223.110.243.164/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="NewTV金牌综艺" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV金牌综艺-4K-1920X1088
+#EXTINF:-1 tvg-id="56" tvg-name="NewTV金牌综艺" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV金牌综艺-4K-1920X1088
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="NewTV金牌综艺" group-title="特色" group-title="4K" tvg-language="CN",NewTV金牌综艺-4K-1920X1088
+#EXTINF:-1 tvg-id="56" tvg-name="NewTV金牌综艺" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV金牌综艺-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="NewTV金牌综艺HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV金牌综艺HD-4K-1920X1088
+#EXTINF:-1 tvg-id="57" tvg-name="NewTV金牌综艺HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV金牌综艺HD-4K-1920X1088
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="NewTV惊悚悬疑" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV惊悚悬疑-4K-1920X1088
+#EXTINF:-1 tvg-id="58" tvg-name="NewTV惊悚悬疑" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV惊悚悬疑-4K-1920X1088
 http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="NewTV惊悚悬疑" group-title="特色" group-title="4K" tvg-language="CN",NewTV惊悚悬疑-4K-1920X1088
+#EXTINF:-1 tvg-id="58" tvg-name="NewTV惊悚悬疑" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV惊悚悬疑-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="NewTV精品大剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品大剧-4K-1920X1088
+#EXTINF:-1 tvg-id="59" tvg-name="NewTV精品大剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品大剧-4K-1920X1088
 http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="NewTV精品大剧" group-title="特色" group-title="4K" tvg-language="CN",NewTV精品大剧-4K-1920X1088
+#EXTINF:-1 tvg-id="59" tvg-name="NewTV精品大剧" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品大剧-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="NewTV精品大剧HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品大剧HD-4K-1920X1088
+#EXTINF:-1 tvg-id="60" tvg-name="NewTV精品大剧HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品大剧HD-4K-1920X1088
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="NewTV精品电影HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品电影HD-4K-1920X1088
+#EXTINF:-1 tvg-id="61" tvg-name="NewTV精品电影HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品电影HD-4K-1920X1088
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="NewTV精品电影HD" group-title="特色" group-title="4K" tvg-language="CN",NewTV精品电影HD-4K-1920X1088
+#EXTINF:-1 tvg-id="61" tvg-name="NewTV精品电影HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品电影HD-4K-1920X1088
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="NewTV精品纪录" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品纪录-4K-1920X1088
+#EXTINF:-1 tvg-id="62" tvg-name="NewTV精品纪录" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品纪录-4K-1920X1088
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="NewTV精品纪录" group-title="特色" group-title="4K" tvg-language="CN",NewTV精品纪录-4K-1920X1088
+#EXTINF:-1 tvg-id="62" tvg-name="NewTV精品纪录" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品纪录-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="NewTV精品纪录HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品纪录HD-4K-1920X1088
+#EXTINF:-1 tvg-id="63" tvg-name="NewTV精品纪录HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品纪录HD-4K-1920X1088
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="NewTV精品体育" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品体育-4K-1920X1088
+#EXTINF:-1 tvg-id="64" tvg-name="NewTV精品体育" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品体育-4K-1920X1088
 http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="NewTV精品体育" group-title="特色" group-title="4K" tvg-language="CN",NewTV精品体育-4K-1920X1088
+#EXTINF:-1 tvg-id="64" tvg-name="NewTV精品体育" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品体育-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="NewTV精品体育HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品体育HD-4K-1920X1088
+#EXTINF:-1 tvg-id="65" tvg-name="NewTV精品体育HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV精品体育HD-4K-1920X1088
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="NewTV军旅剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV军旅剧场-4K-1920X1088
+#EXTINF:-1 tvg-id="66" tvg-name="NewTV军旅剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV军旅剧场-4K-1920X1088
 http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="NewTV军旅剧场" group-title="特色" group-title="4K" tvg-language="CN",NewTV军旅剧场-4K-1920X1088
+#EXTINF:-1 tvg-id="66" tvg-name="NewTV军旅剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV军旅剧场-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="NewTV军旅剧场HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV军旅剧场HD-4K-1920X1088
+#EXTINF:-1 tvg-id="67" tvg-name="NewTV军旅剧场HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV军旅剧场HD-4K-1920X1088
 http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="NewTV军事评论" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV军事评论-4K-1920X1088
+#EXTINF:-1 tvg-id="68" tvg-name="NewTV军事评论" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV军事评论-4K-1920X1088
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="NewTV军事评论" group-title="特色" group-title="4K" tvg-language="CN",NewTV军事评论-4K-1920X1088
+#EXTINF:-1 tvg-id="68" tvg-name="NewTV军事评论" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV军事评论-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="NewTV明星大片" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV明星大片-4K-1920X1088
+#EXTINF:-1 tvg-id="69" tvg-name="NewTV明星大片" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV明星大片-4K-1920X1088
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="NewTV明星大片" group-title="特色" group-title="4K" tvg-language="CN",NewTV明星大片-4K-1920X1088
+#EXTINF:-1 tvg-id="69" tvg-name="NewTV明星大片" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV明星大片-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="NewTV明星大片HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV明星大片HD-4K-1920X1088
+#EXTINF:-1 tvg-id="70" tvg-name="NewTV明星大片HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV明星大片HD-4K-1920X1088
 http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="NewTV农业致富" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV农业致富-4K-1920X1088
+#EXTINF:-1 tvg-id="71" tvg-name="NewTV农业致富" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV农业致富-4K-1920X1088
 http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="NewTV农业致富" group-title="特色" group-title="4K" tvg-language="CN",NewTV农业致富-4K-1920X1088
+#EXTINF:-1 tvg-id="71" tvg-name="NewTV农业致富" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV农业致富-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="NewTV农业致富HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV农业致富HD-4K-1920X1088
+#EXTINF:-1 tvg-id="72" tvg-name="NewTV农业致富HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV农业致富HD-4K-1920X1088
 http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="NewTV武搏世界" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV武搏世界-4K-1920X1088
+#EXTINF:-1 tvg-id="73" tvg-name="NewTV武搏世界" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV武搏世界-4K-1920X1088
 http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="NewTV武搏世界" group-title="特色" group-title="4K" tvg-language="CN",NewTV武搏世界-4K-1920X1088
+#EXTINF:-1 tvg-id="73" tvg-name="NewTV武搏世界" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV武搏世界-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="NewTV武搏世界HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV武搏世界HD-4K-1920X1088
+#EXTINF:-1 tvg-id="74" tvg-name="NewTV武搏世界HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV武搏世界HD-4K-1920X1088
 http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 tvg-id="79" tvg-name="NewTV炫舞未来" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV炫舞未来-4K-1920X1088
+#EXTINF:-1 tvg-id="75" tvg-name="NewTV炫舞未来" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV炫舞未来-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="NewTV怡伴健康" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV怡伴健康-4K-1920X1088
+#EXTINF:-1 tvg-id="76" tvg-name="NewTV怡伴健康" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV怡伴健康-4K-1920X1088
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="NewTV怡伴健康" group-title="特色" group-title="4K" tvg-language="CN",NewTV怡伴健康-4K-1920X1088
+#EXTINF:-1 tvg-id="76" tvg-name="NewTV怡伴健康" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV怡伴健康-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="NewTV怡伴健康HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV怡伴健康HD-4K-1920X1088
+#EXTINF:-1 tvg-id="77" tvg-name="NewTV怡伴健康HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV怡伴健康HD-4K-1920X1088
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="NewTV中国功夫" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV中国功夫-4K-1920X1088
+#EXTINF:-1 tvg-id="78" tvg-name="NewTV中国功夫" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV中国功夫-4K-1920X1088
 http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="NewTV中国功夫" group-title="特色" group-title="4K" tvg-language="CN",NewTV中国功夫-4K-1920X1088
+#EXTINF:-1 tvg-id="78" tvg-name="NewTV中国功夫" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",NewTV中国功夫-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="NNM家庭理财" group-title="特色" group-title="高清" group-title="老电视专用" tvg-language="CN",NNM家庭理财-高清-720X576
-http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227011/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="NNM家庭理财" group-title="特色" group-title="高清" tvg-language="CN",NNM家庭理财-高清-720X576
-http://183.207.249.173/ott.js.chinamobile.com/PLTV/3/224/3221227011/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="SiTV动漫秀场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",SiTV动漫秀场-4K-1920X1088
+#EXTINF:-1 tvg-id="79" tvg-name="SiTV动漫秀场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",SiTV动漫秀场-4K-1920X1088
 http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="SiTV都市剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",SiTV都市剧场-4K-1920X1088
+#EXTINF:-1 tvg-id="80" tvg-name="SiTV都市剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",SiTV都市剧场-4K-1920X1088
 http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
-#EXTINF:-1 tvg-id="86" tvg-name="SiTV欢笑剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",SiTV欢笑剧场-4K-3840X2176
+#EXTINF:-1 tvg-id="81" tvg-name="SiTV欢笑剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",SiTV欢笑剧场-4K-3840X2176
 http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 tvg-id="87" tvg-name="SiTV全纪实" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",SiTV全纪实-4K-1920X1088
+#EXTINF:-1 tvg-id="82" tvg-name="SiTV全纪实" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",SiTV全纪实-4K-1920X1088
 http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
-#EXTINF:-1 tvg-id="88" tvg-name="百事通体育" group-title="特色" group-title="高清" group-title="老电视专用" tvg-language="CN",百事通体育-高清-640X368
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
-#EXTINF:-1 tvg-id="88" tvg-name="百事通体育" group-title="特色" group-title="全高清" tvg-language="CN",百事通体育-全高清-1024X576
+#EXTINF:-1 tvg-id="83" tvg-name="百事通体育" group-title="特色" group-title="全高清" group-title="大屏电视" tvg-language="CN",百事通体育-全高清-1024X576
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="百视通体育" group-title="特色" group-title="全高清" group-title="大屏电视" tvg-language="CN",百视通体育-全高清-1024X576
+#EXTINF:-1 tvg-id="84" tvg-name="百视通体育" group-title="特色" group-title="全高清" group-title="大屏电视" tvg-language="CN",百视通体育-全高清-1024X576
 http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221226805/index.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="百视通体育" group-title="特色" group-title="全高清" tvg-language="CN",百视通体育-全高清-1024X576
+#EXTINF:-1 tvg-id="84" tvg-name="百视通体育" group-title="特色" group-title="全高清" group-title="大屏电视" tvg-language="CN",百视通体育-全高清-1024X576
 http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221226807/index.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="百视通体育" group-title="特色" group-title="高清" tvg-language="CN",百视通体育-高清-640X368
-http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221226801/index.m3u8
-#EXTINF:-1 tvg-id="90" tvg-name="纯享4K" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",纯享4K-4K-3840X2160
+#EXTINF:-1 tvg-id="84" tvg-name="百视通体育" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",百视通体育-4K-1280X720
+http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221226943/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="纯享4K" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",纯享4K-4K-3840X2160
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-id="91" tvg-name="动画王国" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",动画王国-4K-1920X1088
+#EXTINF:-1 tvg-id="86" tvg-name="动画王国" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",动画王国-4K-1920X1088
 http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="91" tvg-name="动画王国" group-title="特色" group-title="4K" tvg-language="CN",动画王国-4K-1920X1088
+#EXTINF:-1 tvg-id="86" tvg-name="动画王国" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",动画王国-4K-1920X1088
 http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="92" tvg-name="黑莓电影" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",黑莓电影-4K-1920X1088
+#EXTINF:-1 tvg-id="87" tvg-name="黑莓电影" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",黑莓电影-4K-1920X1088
 http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-id="92" tvg-name="黑莓电影" group-title="特色" group-title="4K" tvg-language="CN",黑莓电影-4K-1920X1088
+#EXTINF:-1 tvg-id="87" tvg-name="黑莓电影" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",黑莓电影-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-name="黑莓动画" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",黑莓动画-4K-1920X1088
+#EXTINF:-1 tvg-id="88" tvg-name="黑莓动画" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",黑莓动画-4K-1920X1088
 http://223.110.235.21/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-name="黑莓动画" group-title="特色" group-title="4K" tvg-language="CN",黑莓动画-4K-1920X1088
+#EXTINF:-1 tvg-id="88" tvg-name="黑莓动画" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",黑莓动画-4K-1920X1088
 http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227523/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-name="黑莓动画" group-title="特色" group-title="4K" tvg-language="CN",黑莓动画-4K-1920X1088
+#EXTINF:-1 tvg-id="88" tvg-name="黑莓动画" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",黑莓动画-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="黑莓动画HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",黑莓动画HD-4K-1920X1088
+#EXTINF:-1 tvg-id="89" tvg-name="黑莓动画HD" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",黑莓动画HD-4K-1920X1088
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="95" tvg-name="京视剧场" group-title="特色" group-title="高清" group-title="老电视专用" tvg-language="CN",京视剧场-高清-720X576
-http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="聚鲨环球精选" group-title="特色" group-title="高清" group-title="老电视专用" tvg-language="CN",聚鲨环球精选-高清-720X576
-http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221227529/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="聚鲨环球精选" group-title="特色" group-title="高清" tvg-language="CN",聚鲨环球精选-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="篮球" group-title="特色" group-title="高清" group-title="老电视专用" tvg-language="CN",篮球-高清-720X576
-http://223.110.245.139:80/PLTV/4/224/3221227023/index.m3u8
-#EXTINF:-1 tvg-id="98" tvg-name="咪咕怀旧剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",咪咕怀旧剧场-4K-1920X1088
+#EXTINF:-1 tvg-id="90" tvg-name="咪咕怀旧剧场" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",咪咕怀旧剧场-4K-1920X1088
 http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228120/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="咪咕视频" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",咪咕视频-4K-1920X1088
+#EXTINF:-1 tvg-id="91" tvg-name="咪咕视频" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",咪咕视频-4K-1920X1088
 http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221228117/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="咪咕视频" group-title="特色" group-title="4K" tvg-language="CN",咪咕视频-4K-1920X1088
+#EXTINF:-1 tvg-id="91" tvg-name="咪咕视频" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",咪咕视频-4K-1920X1088
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228155/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="咪咕视频" group-title="特色" group-title="4K" tvg-language="CN",咪咕视频-4K-1920X1088
+#EXTINF:-1 tvg-id="91" tvg-name="咪咕视频" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",咪咕视频-4K-1920X1088
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228087/index.m3u8
-#EXTINF:-1 tvg-id="100" tvg-name="咪咕直播" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",咪咕直播-4K-1920X1088
+#EXTINF:-1 tvg-id="92" tvg-name="咪咕直播" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",咪咕直播-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225782/index.m3u8
-#EXTINF:-1 tvg-id="101" tvg-name="求索动物" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",求索动物-4K-1920X1088
+#EXTINF:-1 tvg-id="93" tvg-name="求索动物" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",求索动物-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="102" tvg-name="求索纪录" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",求索纪录-4K-1920X1088
+#EXTINF:-1 tvg-id="94" tvg-name="求索纪录" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",求索纪录-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="求索科学" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",求索科学-4K-1920X1088
+#EXTINF:-1 tvg-id="95" tvg-name="求索科学" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",求索科学-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="104" tvg-name="求索生活" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",求索生活-4K-1920X1088
+#EXTINF:-1 tvg-id="96" tvg-name="求索生活" group-title="特色" group-title="4K" group-title="大屏电视" tvg-language="CN",求索生活-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="105" tvg-name="生活频道" group-title="特色" group-title="高清" group-title="老电视专用" tvg-language="CN",生活频道-高清-720X576
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="五星体育" group-title="特色" group-title="全高清" group-title="大屏电视" tvg-language="CN",五星体育-全高清-1024X576
+#EXTINF:-1 tvg-id="97" tvg-name="五星体育" group-title="特色" group-title="全高清" group-title="大屏电视" tvg-language="CN",五星体育-全高清-1024X576
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/2.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="弈坛春秋" group-title="特色" group-title="高清" group-title="老电视专用" tvg-language="CN",弈坛春秋-高清-720X576
-http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="弈坛春秋" group-title="特色" group-title="高清" tvg-language="CN",弈坛春秋-高清-720X576
-http://183.207.248.71/gitv/live1/G_YITANCQ/G_YITANCQ
-#EXTINF:-1 tvg-id="108" tvg-name="置业频道" group-title="特色" group-title="高清" group-title="老电视专用" tvg-language="CN",置业频道-高清-720X576
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
-#EXTINF:-1 tvg-id="108" tvg-name="置业频道" group-title="特色" group-title="高清" tvg-language="CN",置业频道-高清-720X576
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="安徽卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",安徽卫视-高清-720X576
-http://223.110.235.21/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="安徽卫视" group-title="卫视" group-title="高清" tvg-language="CN",安徽卫视-高清-720X576
-http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="安徽卫视" group-title="卫视" group-title="4K" tvg-language="CN",安徽卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="98" tvg-name="安徽卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",安徽卫视-4K-1920X1088
 http://183.207.249.173/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="安徽卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",安徽卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="98" tvg-name="安徽卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",安徽卫视-4K-1920X1088
+http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="安徽卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",安徽卫视-4K-1920X1088
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227759/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="安徽卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",安徽卫视HD-4K-1920X1088
 http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="安徽卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",安徽卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="99" tvg-name="安徽卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",安徽卫视HD-4K-1920X1088
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="北京卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",北京卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="100" tvg-name="北京卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",北京卫视-4K-1920X1088
 http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="北京卫视" group-title="卫视" group-title="4K" tvg-language="CN",北京卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="100" tvg-name="北京卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",北京卫视-4K-1920X1088
 http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221228115/index.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="北京卫视" group-title="卫视" group-title="4K" tvg-language="CN",北京卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="100" tvg-name="北京卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",北京卫视-4K-1920X1088
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="北京卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",北京卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="101" tvg-name="北京卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",北京卫视HD-4K-1920X1088
 http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227390/index.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="北京卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",北京卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="101" tvg-name="北京卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",北京卫视HD-4K-1920X1088
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="北京卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",北京卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="101" tvg-name="北京卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",北京卫视HD-4K-1920X1088
 http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="东方卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东方卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="102" tvg-name="东方卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东方卫视-4K-1920X1088
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="东方卫视" group-title="卫视" group-title="4K" tvg-language="CN",东方卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="102" tvg-name="东方卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东方卫视-4K-1920X1088
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="东方卫视" group-title="卫视" group-title="4K" tvg-language="CN",东方卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="102" tvg-name="东方卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东方卫视-4K-1920X1088
 http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="东方卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东方卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="103" tvg-name="东方卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东方卫视HD-4K-1920X1088
 http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="东方卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",东方卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="103" tvg-name="东方卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东方卫视HD-4K-1920X1088
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227688/index.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="东方卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",东方卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="103" tvg-name="东方卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东方卫视HD-4K-1920X1088
 http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="东南卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",东南卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="东南卫视" group-title="卫视" group-title="4K" tvg-language="CN",东南卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="104" tvg-name="东南卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东南卫视-4K-1920X1088
 http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="东南卫视" group-title="卫视" group-title="4K" tvg-language="CN",东南卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="104" tvg-name="东南卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东南卫视-4K-1920X1088
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
-#EXTINF:-1 tvg-id="116" tvg-name="东南卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东南卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="105" tvg-name="东南卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东南卫视HD-4K-1920X1088
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
-#EXTINF:-1 tvg-id="116" tvg-name="东南卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",东南卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="105" tvg-name="东南卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",东南卫视HD-4K-1920X1088
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="凤凰卫视香港台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视香港台-4K-1920X1088
+#EXTINF:-1 tvg-id="106" tvg-name="凤凰卫视香港台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视香港台-4K-1920X1088
 http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="凤凰卫视香港台" group-title="卫视" group-title="4K" tvg-language="CN",凤凰卫视香港台-4K-1280X720
+#EXTINF:-1 tvg-id="106" tvg-name="凤凰卫视香港台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视香港台-4K-1280X720
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="凤凰卫视中文台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视中文台-4K-1920X1088
+#EXTINF:-1 tvg-id="107" tvg-name="凤凰卫视中文台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视中文台-4K-1920X1088
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="凤凰卫视中文台" group-title="卫视" group-title="4K" tvg-language="CN",凤凰卫视中文台-4K-1280X720
+#EXTINF:-1 tvg-id="107" tvg-name="凤凰卫视中文台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视中文台-4K-1280X720
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="凤凰卫视中文台HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视中文台HD-4K-1280X720
+#EXTINF:-1 tvg-id="108" tvg-name="凤凰卫视中文台HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视中文台HD-4K-1280X720
 http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="凤凰卫视资讯台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视资讯台-4K-1920X1088
+#EXTINF:-1 tvg-id="109" tvg-name="凤凰卫视资讯台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视资讯台-4K-1920X1088
 http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="凤凰卫视资讯台" group-title="卫视" group-title="4K" tvg-language="CN",凤凰卫视资讯台-4K-1280X720
+#EXTINF:-1 tvg-id="109" tvg-name="凤凰卫视资讯台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视资讯台-4K-1280X720
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="凤凰卫视资讯台" group-title="卫视" group-title="4K" tvg-language="CN",凤凰卫视资讯台-4K-1280X720
+#EXTINF:-1 tvg-id="109" tvg-name="凤凰卫视资讯台" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",凤凰卫视资讯台-4K-1280X720
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-id="121" tvg-name="甘肃卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",甘肃卫视-高清-720X576
-http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
-#EXTINF:-1 tvg-id="121" tvg-name="甘肃卫视" group-title="卫视" group-title="高清" tvg-language="CN",甘肃卫视-高清-720X576
-http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221228166/index.m3u8
-#EXTINF:-1 tvg-id="121" tvg-name="甘肃卫视" group-title="卫视" group-title="高清" tvg-language="CN",甘肃卫视-高清-720X576
-http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="广东卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",广东卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="110" tvg-name="广东卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",广东卫视-4K-1920X1088
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228230/index.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="广东卫视" group-title="卫视" group-title="4K" tvg-language="CN",广东卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="110" tvg-name="广东卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",广东卫视-4K-1920X1088
 http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="广东卫视" group-title="卫视" group-title="4K" tvg-language="CN",广东卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="110" tvg-name="广东卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",广东卫视-4K-1920X1088
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227691/index.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="广东卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",广东卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="111" tvg-name="广东卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",广东卫视HD-4K-1920X1088
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="广东卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",广东卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="111" tvg-name="广东卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",广东卫视HD-4K-1920X1088
 http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="广东卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",广东卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="111" tvg-name="广东卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",广东卫视HD-4K-1920X1088
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227445/index.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="广西卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",广西卫视-高清-720X576
-http://183.207.249.172/ott.js.chinamobile.com/PLTV/3/224/3221225806/index.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="广西卫视" group-title="卫视" group-title="高清" tvg-language="CN",广西卫视-高清-720X576
-http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227609/index.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="广西卫视" group-title="卫视" group-title="高清" tvg-language="CN",广西卫视-高清-720X576
-http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227609/index.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="贵州卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",贵州卫视-高清-720X576
-http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227551/index.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="贵州卫视" group-title="卫视" group-title="高清" tvg-language="CN",贵州卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="贵州卫视" group-title="卫视" group-title="高清" tvg-language="CN",贵州卫视-高清-720X576
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="海南卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",海南卫视-高清-720X576
-http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228101/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="海南卫视" group-title="卫视" group-title="高清" tvg-language="CN",海南卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="海南卫视" group-title="卫视" group-title="4K" tvg-language="CN",海南卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="112" tvg-name="广西卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",广西卫视-4K-1920X1088
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221228183/index.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="贵州卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",贵州卫视-4K-1920X1088
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="海南卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",海南卫视-4K-1920X1088
 http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228139/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="河北卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",河北卫视-高清-720X576
-http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227545/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="河北卫视" group-title="卫视" group-title="高清" tvg-language="CN",河北卫视-高清-720X576
-http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227545/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="河北卫视" group-title="卫视" group-title="高清" tvg-language="CN",河北卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="河南卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",河南卫视-高清-720X576
-http://223.110.236.6/ott.js.chinamobile.com/PLTV/3/224/3221227521/index.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="河南卫视" group-title="卫视" group-title="高清" tvg-language="CN",河南卫视-高清-720X576
-http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="河南卫视" group-title="卫视" group-title="高清" tvg-language="CN",河南卫视-高清-720X576
-http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="河南卫视HD" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",河南卫视HD-高清-720X576
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="黑龙江卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",黑龙江卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="115" tvg-name="河北卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",河北卫视-4K-1920X1088
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228106/index.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="河南卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",河南卫视-4K-1920X1088
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228221/index.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="黑龙江卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",黑龙江卫视-4K-1920X1088
 http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="黑龙江卫视" group-title="卫视" group-title="4K" tvg-language="CN",黑龙江卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="117" tvg-name="黑龙江卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",黑龙江卫视-4K-1920X1088
 http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228233/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="黑龙江卫视" group-title="卫视" group-title="4K" tvg-language="CN",黑龙江卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="117" tvg-name="黑龙江卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",黑龙江卫视-4K-1920X1088
 http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="黑龙江卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",黑龙江卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="118" tvg-name="黑龙江卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",黑龙江卫视HD-4K-1920X1088
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227638/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="黑龙江卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",黑龙江卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="118" tvg-name="黑龙江卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",黑龙江卫视HD-4K-1920X1088
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227323/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="黑龙江卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",黑龙江卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="118" tvg-name="黑龙江卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",黑龙江卫视HD-4K-1920X1088
 http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="湖北卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖北卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="119" tvg-name="湖北卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖北卫视-4K-1920X1088
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="湖北卫视" group-title="卫视" group-title="4K" tvg-language="CN",湖北卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="119" tvg-name="湖北卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖北卫视-4K-1920X1088
 http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="湖北卫视" group-title="卫视" group-title="4K" tvg-language="CN",湖北卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="119" tvg-name="湖北卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖北卫视-4K-1920X1088
 http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228159/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="湖北卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖北卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="120" tvg-name="湖北卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖北卫视HD-4K-1920X1088
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="湖北卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",湖北卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="120" tvg-name="湖北卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖北卫视HD-4K-1920X1088
 http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="湖北卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",湖北卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="120" tvg-name="湖北卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖北卫视HD-4K-1920X1088
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
-#EXTINF:-1 tvg-id="134" tvg-name="湖南卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖南卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="121" tvg-name="湖南卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖南卫视-4K-1920X1088
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227320/index.m3u8
-#EXTINF:-1 tvg-id="134" tvg-name="湖南卫视" group-title="卫视" group-title="4K" tvg-language="CN",湖南卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="121" tvg-name="湖南卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖南卫视-4K-1920X1088
 http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221227698/index.m3u8
-#EXTINF:-1 tvg-id="134" tvg-name="湖南卫视" group-title="卫视" group-title="4K" tvg-language="CN",湖南卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="121" tvg-name="湖南卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖南卫视-4K-1920X1088
 http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227482/index.m3u8
-#EXTINF:-1 tvg-id="135" tvg-name="湖南卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖南卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="122" tvg-name="湖南卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖南卫视HD-4K-1920X1088
 http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-id="135" tvg-name="湖南卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",湖南卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="122" tvg-name="湖南卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖南卫视HD-4K-1920X1088
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227698/index.m3u8
-#EXTINF:-1 tvg-id="135" tvg-name="湖南卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",湖南卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="122" tvg-name="湖南卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",湖南卫视HD-4K-1920X1088
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
-#EXTINF:-1 tvg-id="136" tvg-name="吉林卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",吉林卫视-高清-720X576
-http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221228028/index.m3u8
-#EXTINF:-1 tvg-id="136" tvg-name="吉林卫视" group-title="卫视" group-title="高清" tvg-language="CN",吉林卫视-高清-720X576
-http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
-#EXTINF:-1 tvg-id="136" tvg-name="吉林卫视" group-title="卫视" group-title="高清" tvg-language="CN",吉林卫视-高清-720X576
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
-#EXTINF:-1 tvg-id="137" tvg-name="吉林卫视HD" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",吉林卫视HD-高清-720X576
-http://117.169.120.140:8080/live/jilinstv/.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="吉林延边卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",吉林延边卫视-高清-720X576
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="吉林延边卫视" group-title="卫视" group-title="高清" tvg-language="CN",吉林延边卫视-高清-720X576
-http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227590/index.m3u8
-#EXTINF:-1 tvg-id="139" tvg-name="江苏卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",江苏卫视-高清-720X576
-http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228052/index.m3u8
-#EXTINF:-1 tvg-id="139" tvg-name="江苏卫视" group-title="卫视" group-title="4K" tvg-language="CN",江苏卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="123" tvg-name="江苏卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江苏卫视-4K-1920X1088
 http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221227561/index.m3u8
-#EXTINF:-1 tvg-id="139" tvg-name="江苏卫视" group-title="卫视" group-title="4K" tvg-language="CN",江苏卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="123" tvg-name="江苏卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江苏卫视-4K-1920X1088
 http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227736/index.m3u8
-#EXTINF:-1 tvg-id="140" tvg-name="江苏卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江苏卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="123" tvg-name="江苏卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江苏卫视-4K-1920X1088
+http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
+#EXTINF:-1 tvg-id="124" tvg-name="江苏卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江苏卫视HD-4K-1920X1088
 http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227561/index.m3u8
-#EXTINF:-1 tvg-id="140" tvg-name="江苏卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",江苏卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="124" tvg-name="江苏卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江苏卫视HD-4K-1920X1088
 http://39.135.32.26:6610/000000001000/1000000001000001828/index.m3u8?i
-#EXTINF:-1 tvg-id="140" tvg-name="江苏卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",江苏卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="124" tvg-name="江苏卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江苏卫视HD-4K-1920X1088
 http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="江西卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",江西卫视-高清-720X576
-http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221225798/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="江西卫视" group-title="卫视" group-title="4K" tvg-language="CN",江西卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="125" tvg-name="江西卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江西卫视-4K-1920X1088
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228109/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="江西卫视" group-title="卫视" group-title="4K" tvg-language="CN",江西卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="125" tvg-name="江西卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江西卫视-4K-1920X1088
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="江西卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江西卫视HD-4K-1280X720
+#EXTINF:-1 tvg-id="126" tvg-name="江西卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",江西卫视HD-4K-1280X720
 http://117.169.120.140:8080/live/jiangxistv/.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="辽宁卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",辽宁卫视-高清-720X576
-http://183.207.249.9/PLTV/3/224/3221225566/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="辽宁卫视" group-title="卫视" group-title="高清" tvg-language="CN",辽宁卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="辽宁卫视" group-title="卫视" group-title="4K" tvg-language="CN",辽宁卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="127" tvg-name="辽宁卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",辽宁卫视-4K-1920X1088
 http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221228162/index.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="辽宁卫视HD" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",辽宁卫视HD-高清-720X576
-http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="辽宁卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",辽宁卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="127" tvg-name="辽宁卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",辽宁卫视-4K-1920X1088
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227700/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="辽宁卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",辽宁卫视-4K-1920X1088
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
+#EXTINF:-1 tvg-id="128" tvg-name="辽宁卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",辽宁卫视HD-4K-1920X1088
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="旅游卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",旅游卫视-高清-720X576
-http://183.207.248.11/PLTV/4/224/3221225810/index.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="内蒙古卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",内蒙古卫视-高清-720X576
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="内蒙古卫视" group-title="卫视" group-title="高清" tvg-language="CN",内蒙古卫视-高清-720X576
-http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="内蒙古卫视" group-title="卫视" group-title="高清" tvg-language="CN",内蒙古卫视-高清-720X576
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227557/index.m3u8
-#EXTINF:-1 tvg-id="147" tvg-name="宁夏卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",宁夏卫视-高清-720X576
-http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227563/index.m3u8
-#EXTINF:-1 tvg-id="147" tvg-name="宁夏卫视" group-title="卫视" group-title="高清" tvg-language="CN",宁夏卫视-高清-720X576
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
-#EXTINF:-1 tvg-id="147" tvg-name="宁夏卫视" group-title="卫视" group-title="高清" tvg-language="CN",宁夏卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225579/index.m3u8
-#EXTINF:-1 tvg-id="148" tvg-name="青海安多卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",青海安多卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
-#EXTINF:-1 tvg-id="148" tvg-name="青海安多卫视" group-title="卫视" group-title="高清" tvg-language="CN",青海安多卫视-高清-720X576
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226999/index.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="青海卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",青海卫视-高清-720X576
-http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="青海卫视" group-title="卫视" group-title="高清" tvg-language="CN",青海卫视-高清-720X576
-http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="青海卫视" group-title="卫视" group-title="高清" tvg-language="CN",青海卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
-#EXTINF:-1 tvg-id="150" tvg-name="厦门卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",厦门卫视-高清-720X576
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
-#EXTINF:-1 tvg-id="151" tvg-name="山东教育卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",山东教育卫视-高清-720X576
-http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
-#EXTINF:-1 tvg-id="152" tvg-name="山东卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",山东卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="129" tvg-name="山东卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",山东卫视-4K-1920X1088
 http://223.110.245.148/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8
-#EXTINF:-1 tvg-id="152" tvg-name="山东卫视" group-title="卫视" group-title="4K" tvg-language="CN",山东卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="129" tvg-name="山东卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",山东卫视-4K-1920X1088
 http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221227310/index.m3u8
-#EXTINF:-1 tvg-id="152" tvg-name="山东卫视" group-title="卫视" group-title="4K" tvg-language="CN",山东卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="129" tvg-name="山东卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",山东卫视-4K-1920X1088
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227697/index.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="山东卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",山东卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="130" tvg-name="山东卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",山东卫视HD-4K-1920X1088
 http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="山东卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",山东卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="130" tvg-name="山东卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",山东卫视HD-4K-1920X1088
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="山东卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",山东卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="130" tvg-name="山东卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",山东卫视HD-4K-1920X1088
 http://39.135.32.25:6610/000000001000/1000000001000012807/index.m3u8?i
-#EXTINF:-1 tvg-id="154" tvg-name="山西卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",山西卫视-高清-720X576
-http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227559/index.m3u8
-#EXTINF:-1 tvg-id="154" tvg-name="山西卫视" group-title="卫视" group-title="高清" tvg-language="CN",山西卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225496/index.m3u8
-#EXTINF:-1 tvg-id="155" tvg-name="陕西农林卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",陕西农林卫视-高清-720X576
-http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227648/index.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="陕西卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",陕西卫视-高清-720X576
-http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227583/index.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="陕西卫视" group-title="卫视" group-title="高清" tvg-language="CN",陕西卫视-高清-720X576
-http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227583/index.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="陕西卫视" group-title="卫视" group-title="高清" tvg-language="CN",陕西卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-id="157" tvg-name="深圳卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",深圳卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="131" tvg-name="深圳卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",深圳卫视-4K-1920X1088
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227624/index.m3u8
-#EXTINF:-1 tvg-id="157" tvg-name="深圳卫视" group-title="卫视" group-title="4K" tvg-language="CN",深圳卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="131" tvg-name="深圳卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",深圳卫视-4K-1920X1088
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228236/index.m3u8
-#EXTINF:-1 tvg-id="157" tvg-name="深圳卫视" group-title="卫视" group-title="4K" tvg-language="CN",深圳卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="131" tvg-name="深圳卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",深圳卫视-4K-1920X1088
 http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="158" tvg-name="深圳卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",深圳卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="132" tvg-name="深圳卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",深圳卫视HD-4K-1920X1088
 http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227624/index.m3u8
-#EXTINF:-1 tvg-id="158" tvg-name="深圳卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",深圳卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="132" tvg-name="深圳卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",深圳卫视HD-4K-1920X1088
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
-#EXTINF:-1 tvg-id="158" tvg-name="深圳卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",深圳卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="132" tvg-name="深圳卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",深圳卫视HD-4K-1920X1088
 http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
-#EXTINF:-1 tvg-id="159" tvg-name="四川康巴卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",四川康巴卫视-高清-720X576
-http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227645/index.m3u8
-#EXTINF:-1 tvg-id="159" tvg-name="四川康巴卫视" group-title="卫视" group-title="高清" tvg-language="CN",四川康巴卫视-高清-720X576
-http://223.110.236.14/ott.js.chinamobile.com/PLTV/3/224/3221227651/index.m3u8
-#EXTINF:-1 tvg-id="159" tvg-name="四川康巴卫视" group-title="卫视" group-title="高清" tvg-language="CN",四川康巴卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
-#EXTINF:-1 tvg-id="160" tvg-name="四川卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",四川卫视-高清-720X576
-http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227556/index.m3u8
-#EXTINF:-1 tvg-id="160" tvg-name="四川卫视" group-title="卫视" group-title="高清" tvg-language="CN",四川卫视-高清-720X576
-http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
-#EXTINF:-1 tvg-id="160" tvg-name="四川卫视" group-title="卫视" group-title="高清" tvg-language="CN",四川卫视-高清-720X576
-http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227556/index.m3u8
-#EXTINF:-1 tvg-id="161" tvg-name="四川卫视HD" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",四川卫视HD-高清-720X576
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
-#EXTINF:-1 tvg-id="161" tvg-name="四川卫视HD" group-title="卫视" group-title="高清" tvg-language="CN",四川卫视HD-高清-720X576
-http://117.169.120.140:8080/live/sichuanstv/.m3u8
-#EXTINF:-1 tvg-id="162" tvg-name="天津卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",天津卫视-高清-720X576
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
-#EXTINF:-1 tvg-id="162" tvg-name="天津卫视" group-title="卫视" group-title="4K" tvg-language="CN",天津卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="133" tvg-name="天津卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",天津卫视-4K-1920X1088
 http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227633/index.m3u8
-#EXTINF:-1 tvg-id="162" tvg-name="天津卫视" group-title="卫视" group-title="4K" tvg-language="CN",天津卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="133" tvg-name="天津卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",天津卫视-4K-1920X1088
 http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8
-#EXTINF:-1 tvg-id="163" tvg-name="天津卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",天津卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="133" tvg-name="天津卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",天津卫视-4K-1920X1088
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227741/index.m3u8
+#EXTINF:-1 tvg-id="134" tvg-name="天津卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",天津卫视HD-4K-1920X1088
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8
-#EXTINF:-1 tvg-id="163" tvg-name="天津卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",天津卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="134" tvg-name="天津卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",天津卫视HD-4K-1920X1088
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8
-#EXTINF:-1 tvg-id="163" tvg-name="天津卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",天津卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="134" tvg-name="天津卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",天津卫视HD-4K-1920X1088
 http://223.110.245.140/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8
-#EXTINF:-1 tvg-id="164" tvg-name="西藏卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",西藏卫视-高清-720X576
-http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="新疆卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",新疆卫视-高清-720X576
-http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227627/index.m3u8
-#EXTINF:-1 tvg-id="166" tvg-name="延边卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",延边卫视-高清-720X576
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
-#EXTINF:-1 tvg-id="167" tvg-name="云南卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",云南卫视-高清-720X576
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227571/index.m3u8
-#EXTINF:-1 tvg-id="167" tvg-name="云南卫视" group-title="卫视" group-title="高清" tvg-language="CN",云南卫视-高清-720X576
-http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
-#EXTINF:-1 tvg-id="167" tvg-name="云南卫视" group-title="卫视" group-title="高清" tvg-language="CN",云南卫视-高清-720X576
-http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
-#EXTINF:-1 tvg-id="168" tvg-name="浙江卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",浙江卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="135" tvg-name="云南卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",云南卫视-4K-1920X1088
+http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221228169/index.m3u8
+#EXTINF:-1 tvg-id="136" tvg-name="浙江卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",浙江卫视-4K-1920X1088
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227692/index.m3u8
-#EXTINF:-1 tvg-id="168" tvg-name="浙江卫视" group-title="卫视" group-title="4K" tvg-language="CN",浙江卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="136" tvg-name="浙江卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",浙江卫视-4K-1920X1088
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228147/index.m3u8
-#EXTINF:-1 tvg-id="168" tvg-name="浙江卫视" group-title="卫视" group-title="4K" tvg-language="CN",浙江卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="136" tvg-name="浙江卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",浙江卫视-4K-1920X1088
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8
-#EXTINF:-1 tvg-id="169" tvg-name="浙江卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",浙江卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="137" tvg-name="浙江卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",浙江卫视HD-4K-1920X1088
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227692/index.m3u8
-#EXTINF:-1 tvg-id="169" tvg-name="浙江卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",浙江卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="137" tvg-name="浙江卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",浙江卫视HD-4K-1920X1088
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8
-#EXTINF:-1 tvg-id="169" tvg-name="浙江卫视HD" group-title="卫视" group-title="4K" tvg-language="CN",浙江卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="137" tvg-name="浙江卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",浙江卫视HD-4K-1920X1088
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
-#EXTINF:-1 tvg-id="170" tvg-name="重庆卫视" group-title="卫视" group-title="高清" group-title="老电视专用" tvg-language="CN",重庆卫视-高清-720X576
-http://39.134.66.66/PLTV/88888888/224/3221225502/index.m3u8
-#EXTINF:-1 tvg-id="170" tvg-name="重庆卫视" group-title="卫视" group-title="4K" tvg-language="CN",重庆卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="138" tvg-name="重庆卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",重庆卫视-4K-1920X1088
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
-#EXTINF:-1 tvg-id="170" tvg-name="重庆卫视" group-title="卫视" group-title="4K" tvg-language="CN",重庆卫视-4K-1920X1088
+#EXTINF:-1 tvg-id="138" tvg-name="重庆卫视" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",重庆卫视-4K-1920X1088
 http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228133/index.m3u8
-#EXTINF:-1 tvg-id="171" tvg-name="重庆卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",重庆卫视HD-4K-1920X1088
+#EXTINF:-1 tvg-id="139" tvg-name="重庆卫视HD" group-title="卫视" group-title="4K" group-title="大屏电视" tvg-language="CN",重庆卫视HD-4K-1920X1088
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227550/index.m3u8

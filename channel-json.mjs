@@ -165,27 +165,30 @@ export async function genChannelJson(csvFile = 'data.csv', saveToDisk = true)  {
             console.error('skip ', data, e.message);
         }
     }
-
-    //确定每个channel 最快的3个， 
-  
-    let channelsMap = channels.reduce((map, v, i)=>{
-        if(v.channel in map){
-            map[v.channel].channels.push(v);
-        }
-        else{
-            map[v.channel] = {channels:[v]}
-        }
-
-        return map;
-    },{});
-
-
-    // console.log(channelsMap);
     if(saveToDisk)
-        writeFileSync('./dist/all.json', JSON.stringify(channelsMap), {encoding:'utf8'});
+        writeFileSync('./dist/channels.json', JSON.stringify(channels), {encoding:'utf8'});
+
+    return channels;
+    // //确定每个channel 最快的3个， 
+  
+    // let channelsMap = channels.reduce((map, v, i)=>{
+    //     if(v.channel in map){
+    //         map[v.channel].channels.push(v);
+    //     }
+    //     else{
+    //         map[v.channel] = {channels:[v]}
+    //     }
+
+    //     return map;
+    // },{});
 
 
-    return channelsMap;
+    // // console.log(channelsMap);
+    // if(saveToDisk)
+    //     writeFileSync('./dist/all.json', JSON.stringify(channelsMap), {encoding:'utf8'});
+
+
+    // return channelsMap;
     // //生产m3u
     // const playlist = new M3uPlaylist();
     // playlist.title = '老牛之家';

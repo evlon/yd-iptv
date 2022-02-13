@@ -19,7 +19,7 @@ program
     .description("my iptv generator")
     .version('0.1.0');
 
-let channelsMap = null;
+let channels = null;
 
 
 program.command("genjson")
@@ -35,23 +35,32 @@ program.command("genjson")
     .action(async () => {
         let csvFile = "./data.csv";
 
-        channelsMap = await genChannelJson(csvFile, true)
+        channels = await genChannelJson(csvFile, true)
     });
 
 program.command("genm3u")
     .description("gen json from csv")
     .action(async () => {
-        if (channelsMap === null) {
-            let jsonFile = './dist/all.json';
+        if (channels === null) {
+            let jsonFile = './dist/channels.json';
             if (fs.existsSync(jsonFile)) {
-                channelsMap = JSON.parse(fs.readFileSync(jsonFile, { encoding: 'utf8' }))
+                channels = JSON.parse(fs.readFileSync(jsonFile, { encoding: 'utf8' }))
+
+                // let channels = [];
+                // Object.keys(channelsMap).forEach(k=>{
+                //     let channel = channelsMap[k];
+                //     channels.push.apply(channels,channel.channels);
+                // });
+
+                // fs.writeFileSync('./dist/channels.json', JSON.stringify(channels), {encoding:'utf8'});
+
             }
             else {
-                channelsMap = await genChannelJson(csvFile, true)
+                channels = await genChannelJson(csvFile, true)
             }
         }
 
-        let m3uString = await m3uGen(channelsMap);
+        let m3uString = await m3uGen(channels);
 
         console.log(m3uString);
     });
