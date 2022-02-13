@@ -3,6 +3,7 @@ import { m3uGen } from './m3u-generator.mjs';
 import { gitPushToServer } from './git-push-to-server.mjs'
 import { genChannelJson } from './channel-json.mjs';
 import * as fs from 'fs';
+import { execSync } from 'child_process';
 // Run the pipeline
 
 import { program } from "commander";

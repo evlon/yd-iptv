@@ -1,12 +1,10 @@
 
 import csv from 'csvtojson';
-import { M3uPlaylist, M3uMedia } from 'm3u-parser-generator';
 import { writeFileSync } from 'fs';
 import axios from 'axios';
 import {checker} from './checker.mjs';
-import { timeout_ffprobe, timeout_get_m3u8, channelFilter, groupTitle } from './config.mjs';
-import { execSync } from 'child_process';
-import { gitee_login_with_obj_cookie, pagebuild_with_obj_cookie } from 'gitee-pages-build';
+import { timeout_ffprobe, timeout_get_m3u8, channelFilter } from './config.mjs';
+
 // Run the pipeline
 
 async function mock_checkChannel(csvLine, num){
