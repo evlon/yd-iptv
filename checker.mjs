@@ -1,13 +1,16 @@
-const IPTVChecker = require('iptv-checker')
+// import IPTVChecker  = require('iptv-checker')
+let IPTVChecker = null;
+const IPTVCheckerLoader = import('iptv-checker');
 
-const checker = {}
 
-checker.check = async function (/*{url,http}*/item, /* IPTVChecker config*/ config) {
+export async function checker(/*{url,http}*/item, /* IPTVChecker config*/ config) {
+  let IPTVChecker = (await IPTVCheckerLoader).default;
+
   const ic = new IPTVChecker(config)
   const result = await ic.checkStream({ url: item.url, http: item.http })
 
   return {
-    ok : result.status.ok,
+    ok: result.status.ok,
     _id: item._id,
     url: item.url,
     http: item.http,
@@ -16,5 +19,3 @@ checker.check = async function (/*{url,http}*/item, /* IPTVChecker config*/ conf
     requests: result.status.ok ? result.status.metadata.requests : []
   }
 }
-
-module.exports = checker

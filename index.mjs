@@ -1,10 +1,12 @@
 
-const csv = require('csvtojson')
-const m3uGen = require('m3u-parser-generator');
-const fs = require('fs');
-const axios = require('axios').default
-const itvpChecker = require('./checker')
-const config = require('./config')
+import csv from 'csvtojson';
+import { M3uPlaylist, M3uMedia } from 'm3u-parser-generator';
+import { writeFileSync } from 'fs';
+import axios from 'axios';
+import {checker} from './checker.mjs';
+import { timeout_ffprobe, timeout_get_m3u8, channelFilter, groupTitle } from './config.mjs';
+import { execSync } from 'child_process';
+import { gitee_login_with_obj_cookie, pagebuild_with_obj_cookie } from 'gitee-pages-build';
 // Run the pipeline
 
 async function mock_checkChannel(csvLine, num){
@@ -17,7 +19,7 @@ async function mock_checkChannel(csvLine, num){
 async function checkChannel(csvLine, num) {
     const checkerConfig = {
         userAgent: null,
-        timeout: config.timeout_ffprobe,
+        timeout: timeout_ffprobe,
         debug:true
     }
 
@@ -27,11 +29,11 @@ async function checkChannel(csvLine, num) {
     let link = csvLine.Link;
 
 
-    let getTest = await axios.get(link, { timeout: config.timeout_get_m3u8 });
+    let getTest = await axios.get(link, { timeout: timeout_get_m3u8 });
     if (getTest.status == 200) {
         let item = { url: link, http: {} };
         let timeBegin = new Date();
-        let checkResult = await itvpChecker.check(item, checkerConfig);
+        let checkResult = await checker(item, checkerConfig);
         let timeUse = new Date().valueOf() - timeBegin.valueOf();
 
         if (checkResult.ok) {
@@ -114,13 +116,13 @@ async function getLogo(channel) {
 }
 
 function filterChannel(channel){
-    let okChannel = config.channelFilter.channel.every((v,i)=>{
+    let okChannel = channelFilter.channel.every((v,i)=>{
         return !v.test(channel.Channel)
     })
     if(!okChannel){
         return false;
     }
-    let okGroup = config.channelFilter.group.every((v,i)=>{
+    let okGroup = channelFilter.group.every((v,i)=>{
         return !v.test(channel.Group);
     })
     if(!okGroup){
@@ -133,6 +135,7 @@ function filterChannel(channel){
 async function main() {
     let csvDatas = await csv().fromFile('data.csv');
 
+    
     let datas = csvDatas.filter(filterChannel);
 
     let channels = [];
@@ -187,19 +190,20 @@ async function main() {
     })
 
     console.log(channelsMap);
+    writeFileSync('./dist/all.json', JSON.stringify(channelsMap), {encoding:'utf8'});
 
     //生产m3u
-    const playlist = new m3uGen.M3uPlaylist();
+    const playlist = new M3uPlaylist();
     playlist.title = '老牛之家';
     
     Object.keys(channelsMap).forEach((k,chid)=>{
         let channel = channelsMap[k];
         channel.top.forEach((ch,sourceid)=>{
-            const media = new m3uGen.M3uMedia(ch.link);
+            const media = new M3uMedia(ch.link);
             media.attributes = {'tvg-id': (chid + 1).toString() , 'tvg-language': 'CN','tvg-logo': ch.logo};
             media.duration = -1;
-            media.name = ch.channel;
-            media.group = ch.group;
+            media.name = `${ch.channel}(${ch.source})`;
+            media.group = groupTitle[ch.group] || '未分类';
             
             playlist.medias.push(media);
         });
@@ -210,7 +214,19 @@ async function main() {
 
     console.log(m3uString);
 
-    fs.writeFileSync('./dist/all.m3u', m3uString, {encoding:'utf8'});
+    writeFileSync('./dist/all.m3u', m3uString, {encoding:'utf8'});
+
+    //上传到gitee 
+
+    execSync(`git pull`);
+    execSync(`git add -A`);
+    execSync(`git commit -m 'update my nas job'`);
+    execSync(`git push`);
+
+    //发布
+    await gitee_login_with_obj_cookie();
+
+    await pagebuild_with_obj_cookie();
 }
 
 
